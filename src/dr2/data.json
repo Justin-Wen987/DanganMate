@@ -1,0 +1,2960 @@
+{
+  "gifts": [
+    {
+      "id": 1,
+      "en": "Mineral Water",
+      "ja": "ミネラルウォーター",
+      "name": "矿泉水",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/001.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 2,
+      "en": "Ramune",
+      "ja": "ラムネ",
+      "name": "波子汽水",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/002.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 3,
+      "en": "Coconut Juice",
+      "ja": "ココナッツジュース",
+      "name": "椰子汁",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/003.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 4,
+      "en": "Blue Ram",
+      "ja": "ブルーラム",
+      "name": "蓝牛饮料",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/004.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 5,
+      "en": "Civet Coffee",
+      "ja": "ルアックコーヒー",
+      "name": "猫屎咖啡",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/005.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 6,
+      "en": "Cinnamon Tea",
+      "ja": "シナモンティー",
+      "name": "肉桂红茶",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/006.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 7,
+      "en": "Non-Alcoholic Wine",
+      "ja": "ノンアルコールワイン",
+      "name": "无酒精葡萄酒",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/007.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 8,
+      "en": "Prepackaged Orzotto",
+      "ja": "麦飯パック",
+      "name": "即食麦饭",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/008.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 9,
+      "en": "Chocolate Chip Jerky",
+      "ja": "チョコチップジャーキー",
+      "name": "巧克力豆肉干",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/009.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 10,
+      "en": "Cod Roe Baguette",
+      "ja": "明太フランスパン",
+      "name": "明太子法棍",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/010.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 11,
+      "en": "Gugelhupf Cake",
+      "ja": "クグロフ",
+      "name": "咕咕霍夫蛋糕",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/011.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 12,
+      "en": "Hardtack of Hope",
+      "ja": "希望の乾パン",
+      "name": "希望干面包",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/012.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 13,
+      "en": "Sweet Bun Bag",
+      "ja": "菓子パン袋",
+      "name": "甜面包袋",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/013.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 14,
+      "en": "Potato Chips",
+      "ja": "油芋",
+      "name": "薯片",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/014.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 15,
+      "en": "Viva Ice",
+      "ja": "ビバ氷",
+      "name": "万岁刨冰",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/015.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 16,
+      "en": "Jabba's Natural Salt",
+      "ja": "ジャバの天然塩",
+      "name": "贾巴天然盐",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/016.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 17,
+      "en": "Cocoshimi",
+      "ja": "ヤシミ",
+      "name": "椰子刺身",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/017.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 18,
+      "en": "Sunflower Seeds",
+      "ja": "ひまわりの種",
+      "name": "葵花籽",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/018.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 19,
+      "en": "Coconut",
+      "ja": "ヤシの実",
+      "name": "椰子",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/019.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 20,
+      "en": "Iroha T-Shirt",
+      "ja": "イロハシャツ",
+      "name": "伊吕波衬衫",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/020.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 21,
+      "en": "Brightly Colored Jeans",
+      "ja": "純色ジーパン",
+      "name": "纯色牛仔裤",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/021.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 22,
+      "en": "Apron Dress",
+      "ja": "エプロンドレス",
+      "name": "围裙连衣裙",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/022.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 23,
+      "en": "Falkor's Muffler",
+      "ja": "ファーマフラー",
+      "name": "法尔科围巾",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/023.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 24,
+      "en": "Fresh Bindings",
+      "ja": "新品のサラシ",
+      "name": "全新裹胸布",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/024.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 25,
+      "en": "Queen’s Straitjacket",
+      "ja": "女王の拘束衣",
+      "name": "女王拘束衣",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/025.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 26,
+      "en": "Spy Spike",
+      "ja": "スパイ・スパイク",
+      "name": "间谍钉鞋",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/026.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 27,
+      "en": "Secret Boots",
+      "ja": "シークレットブーツ",
+      "name": "增高靴",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/027.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 28,
+      "en": "Safety Half-Shoes",
+      "ja": "半分安全靴",
+      "name": "半截安全鞋",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/028.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 29,
+      "en": "Passionate Glasses",
+      "ja": "煩悩メガネ",
+      "name": "烦恼眼镜",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/029.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 30,
+      "en": "Bvlbari's Gold",
+      "ja": "ブルベリの金無垢",
+      "name": "宝格丽纯金手链",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/030.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 31,
+      "en": "Earring of Crushed Evil",
+      "ja": "破邪のピアス",
+      "name": "破邪耳环",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/031.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 32,
+      "en": "Silver Ring",
+      "ja": "シルバーリング",
+      "name": "银戒指",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/032.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 33,
+      "en": "Hope's Peak Ring",
+      "ja": "希望ヶ峰の指輪",
+      "name": "希望之峰戒指",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/033.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 34,
+      "en": "Spectre Ring",
+      "ja": "スペクターリング",
+      "name": "幽灵戒指",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/034.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 35,
+      "en": "Cloth Wrap Backpack",
+      "ja": "風呂敷バック",
+      "name": "风吕敷背包",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/035.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 36,
+      "en": "Another Hope",
+      "ja": "アナザーホープ",
+      "name": "另一个希望",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/036.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 37,
+      "en": "Jabbaian Jewelry",
+      "ja": "ジャバイアンジュエリー",
+      "name": "贾巴珠宝",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/037.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 38,
+      "en": "Biggest Fantom",
+      "ja": "疾駆守扇子",
+      "name": "疾风守扇子",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/038.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 39,
+      "en": "Ubiquitous Handbook",
+      "ja": "ユビキタス手帳",
+      "name": "泛用手账",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/039.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 40,
+      "en": "Millennium Prize Problems",
+      "ja": "ミレニアム懸賞問題",
+      "name": "千禧年难题",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/040.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 41,
+      "en": "Tips & Tips 2nd Edition",
+      "ja": "超技林　第二版",
+      "name": "超技林第二版",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/041.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 42,
+      "en": "Ogami Clan Codex",
+      "ja": "大神宗家の書",
+      "name": "大神宗家之书",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/042.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 43,
+      "en": "Men's Manma",
+      "ja": "MEN'S MANMA",
+      "name": "MEN'S MANMA",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/043.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 44,
+      "en": "Kiss Note",
+      "ja": "KISSノート",
+      "name": "KISS笔记",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/044.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 45,
+      "en": "Black Rabbit Picture Book",
+      "ja": "黒ウサギ読本",
+      "name": "黑兔读本",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/045.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 46,
+      "en": "2.5D Headphones",
+      "ja": "2.5Dヘッドホン",
+      "name": "2.5D耳机",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/046.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 47,
+      "en": "Radiosonde",
+      "ja": "ラジオゾンデ",
+      "name": "无线电探空仪",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/047.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 48,
+      "en": "Male Cylinder",
+      "ja": "オスシリンダー",
+      "name": "雄性量筒",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/048.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 49,
+      "en": "Measuring Flask",
+      "ja": "メスフラスコ",
+      "name": "雌性烧瓶",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/049.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 50,
+      "en": "Razor Ramon HG",
+      "ja": "レーザーライスHG",
+      "name": "雷射米饭HG",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/050.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 51,
+      "en": "Infrared Thermometer",
+      "ja": "赤外線式体温計",
+      "name": "红外线体温计",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/051.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 52,
+      "en": "Flash Suppressor",
+      "ja": "フラッシュハイダー",
+      "name": "消焰器",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/052.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 53,
+      "en": "Lilienthal’s Wings",
+      "ja": "リリエンタールの翼",
+      "name": "李林塔尔之翼",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/053.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 54,
+      "en": "Kirlian Photography",
+      "ja": "キルリアンカメラ",
+      "name": "克里安相机",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/054.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 55,
+      "en": "Mr. Stapler",
+      "ja": "Mr.ホチキス",
+      "name": "订书机先生",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/055.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 56,
+      "en": "Small Degenerated Reactor",
+      "ja": "小型縮退炉",
+      "name": "小型缩退炉",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/056.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 57,
+      "en": "Many-Sided Dice Set",
+      "ja": "多面ダイスセット",
+      "name": "多面骰子组",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/057.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 58,
+      "en": "The Funbox",
+      "ja": "家庭用ゲーム機",
+      "name": "家用游戏机",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/058.webp",
+      "imageWidth": 200,
+      "imageHeight": 200,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 59,
+      "en": "The Funplane",
+      "ja": "携帯ゲーム機",
+      "name": "便携游戏机",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/059.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 60,
+      "en": "American Clacker",
+      "ja": "アメリカンクラッカー",
+      "name": "美式响板",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/060.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 62,
+      "en": "Power Gauntlet",
+      "ja": "ハンドパワーグローブ",
+      "name": "力量手套",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/062.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 63,
+      "en": "Mesopotamia",
+      "ja": "メソポタミア",
+      "name": "美索不达米亚",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/063.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 64,
+      "en": "Nitro Racer",
+      "ja": "ドライビングニトロ",
+      "name": "硝基赛车",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/064.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 65,
+      "en": "Slap Bracelet",
+      "ja": "ペッチンバンド",
+      "name": "啪嗒手环",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/065.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 66,
+      "en": "Gag Ball",
+      "ja": "ギャグボール",
+      "name": "搞笑口球",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/066.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 67,
+      "en": "Kokeshi Dynamo",
+      "ja": "動くこけし",
+      "name": "会动的木芥子",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/067.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 68,
+      "en": "Go Stone",
+      "ja": "碁石",
+      "name": "围棋子",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/068.webp",
+      "imageWidth": 200,
+      "imageHeight": 200,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 69,
+      "en": "Message In a Bottle",
+      "ja": "ボトルメール",
+      "name": "漂流瓶",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/069.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 70,
+      "en": "Old Timey Radio",
+      "ja": "昭和ラジオ",
+      "name": "昭和收音机",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/070.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 71,
+      "en": "Antique Doll",
+      "ja": "アンティークドール",
+      "name": "古董人偶",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/071.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 72,
+      "en": "The Second Button",
+      "ja": "第二ボタン",
+      "name": "第二颗纽扣",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/072.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 73,
+      "en": "Moon Rock",
+      "ja": "月の石",
+      "name": "月之石",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/073.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 74,
+      "en": "Another Battle",
+      "ja": "戦いなき仁義",
+      "name": "另一场战斗",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/074.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 75,
+      "en": "Desperation",
+      "ja": "じぼうじき",
+      "name": "自暴自弃",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/075.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 76,
+      "en": "1000 Cherry Blossoms",
+      "ja": "千本桜影好",
+      "name": "千本樱影好",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/076.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 77,
+      "en": "Paper \"10th Act Verse\"",
+      "ja": "懐紙\"十幕目詩録\"",
+      "name": "怀纸十幕目诗录",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/077.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 78,
+      "en": "Marine Snow",
+      "ja": "マリンスノー",
+      "name": "海洋雪",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/078.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 79,
+      "en": "Gold Coated Sheath",
+      "ja": "蒔絵竹刀",
+      "name": "莳绘竹刀",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/079.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 80,
+      "en": "Mini Wave-Dissipaters",
+      "ja": "消波ブロック・ミニ",
+      "name": "迷你消波块",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/080.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 81,
+      "en": "Stardust",
+      "ja": "星の砂",
+      "name": "星砂",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/081.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 82,
+      "en": "Japanese Tea Cup",
+      "ja": "ジャパニーズティーカップ",
+      "name": "日式茶杯",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/082.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 83,
+      "en": "Two-Sided Ukulele",
+      "ja": "表裏ウクレレ",
+      "name": "双面尤克里里",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/083.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 84,
+      "en": "Collapsible Fishing Rod",
+      "ja": "ボールペンロッド",
+      "name": "圆珠笔鱼竿",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/084.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 85,
+      "en": "Bojobo Dolls",
+      "ja": "ボージョボー人形",
+      "name": "波乔波人偶",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/085.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 86,
+      "en": "Century Potpourri",
+      "ja": "百年ポプリ",
+      "name": "百年花香",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/086.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 87,
+      "en": "Absolute Tuning Fork",
+      "ja": "絶対音叉",
+      "name": "绝对音叉",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/087.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 88,
+      "en": "Seven Sword",
+      "ja": "七支刀",
+      "name": "七支刀",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/088.webp",
+      "imageWidth": 200,
+      "imageHeight": 200,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 89,
+      "en": "Sand God's Storm Horn",
+      "ja": "神の砂の嵐の角",
+      "name": "砂神的风暴之角",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/089.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 90,
+      "en": "Memory Notebook",
+      "ja": "記憶ノート",
+      "name": "记忆笔记",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/090.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 91,
+      "en": "Mukuro's Knife",
+      "ja": "戦刃ナイフ",
+      "name": "战刃匕首",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/091.webp",
+      "imageWidth": 200,
+      "imageHeight": 200,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 92,
+      "en": "Broken Warhead",
+      "ja": "壊れたミサイル",
+      "name": "破损导弹",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/092.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 93,
+      "en": "Girl with the Bear Hairpin",
+      "ja": "クマの髪飾りの少女",
+      "name": "熊发夹少女",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/093.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 94,
+      "en": "Bar",
+      "ja": "バール",
+      "name": "撬棍",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/094.webp",
+      "imageWidth": 200,
+      "imageHeight": 200,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 95,
+      "en": "Dip Pen",
+      "ja": "つけペン",
+      "name": "蘸水笔",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/095.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 96,
+      "en": "Tissue",
+      "ja": "ティッシュ",
+      "name": "纸巾",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/096.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 97,
+      "en": "Jabba the Frog",
+      "ja": "ジャバ・ザ・フロッグ",
+      "name": "贾巴蛙",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/097.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 98,
+      "en": "Iguana Daughter",
+      "ja": "娘のイグアナ",
+      "name": "鬣蜥女儿",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/098.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 99,
+      "en": "Dull Kitchen Knife",
+      "ja": "なまくら包丁",
+      "name": "钝菜刀",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/099.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 100,
+      "en": "Occult Photo Frame",
+      "ja": "オカルトフォトフレーム",
+      "name": "灵异相框",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/100.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 101,
+      "en": "Lust Setsugekka",
+      "ja": "淫れ雪月花",
+      "name": "淫乱雪月花",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/101.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 102,
+      "en": "Rose In Vitro",
+      "ja": "イン・ビトロ・ローズ",
+      "name": "试管玫瑰",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/102.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 103,
+      "en": "Skullhead Mask",
+      "ja": "ドクロマスク",
+      "name": "骷髅面具",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/103.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 107,
+      "en": "Compact Costume",
+      "ja": "仮装のコンパクト",
+      "name": "变装化妆盒",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/107.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 108,
+      "en": "Angel's Fruit",
+      "ja": "天使の果実",
+      "name": "天使之果",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/108.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 109,
+      "en": "Bandage Wrap",
+      "ja": "包帯",
+      "name": "绷带",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/109.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 110,
+      "en": "Secret Wind Sword Book",
+      "ja": "剣風秘帖・舞園鞘花",
+      "name": "剑风秘帖·舞园鞘花",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/110.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 112,
+      "en": "Hagakure Crystal Ball",
+      "ja": "葉隠流水晶",
+      "name": "叶隐流水晶",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/112.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 114,
+      "en": "Used Carrot",
+      "ja": "使い込まれたニンジン",
+      "name": "用旧的胡萝卜",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/114.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "沙滩椰子扭蛋机随机获取；部分也可在超市贩卖机购买。"
+    },
+    {
+      "id": 115,
+      "en": "Nagito's Undergarments",
+      "ja": "狛枝のパンツ",
+      "name": "狛枝的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "nagito",
+      "image": "assets/dr2/gifts/115.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 116,
+      "en": "Byakuya's Undergarments",
+      "ja": "十神のパンツ",
+      "name": "十神的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "byakuya2",
+      "image": "assets/dr2/gifts/116.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 117,
+      "en": "Gundham's Undergarments",
+      "ja": "田中のパンツ",
+      "name": "田中的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "gundham",
+      "image": "assets/dr2/gifts/117.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 118,
+      "en": "Kazuichi's Undergarments",
+      "ja": "左右田のパンツ",
+      "name": "左右田的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "kazuichi",
+      "image": "assets/dr2/gifts/118.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 119,
+      "en": "Teruteru's Undergarments",
+      "ja": "花村のパンツ",
+      "name": "花村的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "teruteru",
+      "image": "assets/dr2/gifts/119.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 120,
+      "en": "Nekomaru's Undergarments",
+      "ja": "弐大のパンツ",
+      "name": "贰大的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "nekomaru",
+      "image": "assets/dr2/gifts/120.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 121,
+      "en": "Fuyuhiko's Undergarments",
+      "ja": "九頭竜のパンツ",
+      "name": "九头龙的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "fuyuhiko",
+      "image": "assets/dr2/gifts/121.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 122,
+      "en": "Akane's Undergarments",
+      "ja": "終里のパンツ",
+      "name": "终里的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "akane",
+      "image": "assets/dr2/gifts/122.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 123,
+      "en": "Chiaki's Undergarments",
+      "ja": "七海のパンツ",
+      "name": "七海的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "chiaki",
+      "image": "assets/dr2/gifts/123.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 124,
+      "en": "Sonia's Undergarments",
+      "ja": "ソニアのパンツ",
+      "name": "索尼娅的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "sonia",
+      "image": "assets/dr2/gifts/124.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 125,
+      "en": "Hiyoko's Undergarments",
+      "ja": "西園寺のパンツ",
+      "name": "西园寺的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "hiyoko",
+      "image": "assets/dr2/gifts/125.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 126,
+      "en": "Mahiru's Undergarments",
+      "ja": "小泉のパンツ",
+      "name": "小泉的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "mahiru",
+      "image": "assets/dr2/gifts/126.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 127,
+      "en": "Mikan's Undergarments",
+      "ja": "罪木のパンツ",
+      "name": "罪木的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "mikan",
+      "image": "assets/dr2/gifts/127.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 128,
+      "en": "Ibuki's Undergarments",
+      "ja": "澪田のパンツ",
+      "name": "澪田的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "ibuki",
+      "image": "assets/dr2/gifts/128.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 129,
+      "en": "Peko's Undergarments",
+      "ja": "辺古山のパンツ",
+      "name": "边古山的内裤",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "希望碎片纪念",
+      "owner": "peko",
+      "image": "assets/dr2/gifts/129.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应角色的全部希望碎片后获得。"
+    },
+    {
+      "id": 61,
+      "en": "Toy Camera",
+      "ja": "トイカメラ",
+      "name": "玩具相机",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/061.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "火箭飞拳超市贩卖机，50 枚徽章；限时事件条件见收集攻略。"
+    },
+    {
+      "id": 104,
+      "en": "Replica Sword",
+      "ja": "金箔の模擬刀",
+      "name": "金箔模仿刀",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/104.webp",
+      "imageWidth": 200,
+      "imageHeight": 200,
+      "acquisition": "火箭飞拳超市贩卖机，50 枚徽章；限时事件条件见收集攻略。"
+    },
+    {
+      "id": 105,
+      "en": "An An Aan",
+      "ja": "あんぁんぁあん",
+      "name": "啊嗯啊嗯啊啊嗯",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/105.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "火箭飞拳超市贩卖机，50 枚徽章；限时事件条件见收集攻略。"
+    },
+    {
+      "id": 106,
+      "en": "Man's Nut",
+      "ja": "男のマロン",
+      "name": "男人的浪漫栗",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/106.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "火箭飞拳超市贩卖机，50 枚徽章；限时事件条件见收集攻略。"
+    },
+    {
+      "id": 111,
+      "en": "Summer Festival Tree",
+      "ja": "夏まトゥリー",
+      "name": "夏祭之树",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/111.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "火箭飞拳超市贩卖机，50 枚徽章；限时事件条件见收集攻略。"
+    },
+    {
+      "id": 113,
+      "en": "R/C 4WD Battler Taro",
+      "ja": "ラジコンバトラー四駆太郎",
+      "name": "遥控战斗四驱太郎",
+      "giftable": true,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "椰子扭蛋礼物",
+      "image": "assets/dr2/gifts/113.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "火箭飞拳超市贩卖机，50 枚徽章；限时事件条件见收集攻略。"
+    },
+    {
+      "id": 130,
+      "en": "Wooden Stick",
+      "ja": "木の棒",
+      "name": "木棒",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/130.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "第一章通关后获得，解锁魔法少女兔美。"
+    },
+    {
+      "id": 131,
+      "en": "Usami Strap",
+      "ja": "ウサミのストラップ",
+      "name": "兔美挂件",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/131.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "主线通关后获得，解锁对应追加模式。"
+    },
+    {
+      "id": 132,
+      "en": "Danganronpa IF",
+      "ja": "ダンガンロンパIF",
+      "name": "弹丸论破IF",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/132.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "主线通关后获得，解锁对应追加模式。"
+    },
+    {
+      "id": 133,
+      "en": "Fosho Broken Wand",
+      "ja": "マジ折れステッキ",
+      "name": "彻底折断的魔杖",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/133.webp",
+      "imageWidth": 200,
+      "imageHeight": 200,
+      "acquisition": "完成对应章节后自动获得；133–140 为序章、六章与尾声。"
+    },
+    {
+      "id": 134,
+      "en": "3 Star Badge",
+      "ja": "三ツ星バッジ",
+      "name": "三星徽章",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/134.webp",
+      "imageWidth": 200,
+      "imageHeight": 200,
+      "acquisition": "完成对应章节后自动获得；133–140 为序章、六章与尾声。"
+    },
+    {
+      "id": 135,
+      "en": "Black Dragon Blade",
+      "ja": "黒龍丸",
+      "name": "黑龙丸",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/135.webp",
+      "imageWidth": 200,
+      "imageHeight": 200,
+      "acquisition": "完成对应章节后自动获得；133–140 为序章、六章与尾声。"
+    },
+    {
+      "id": 136,
+      "en": "Nurse's Apron",
+      "ja": "エプロン白衣",
+      "name": "护士围裙",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/136.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应章节后自动获得；133–140 为序章、六章与尾声。"
+    },
+    {
+      "id": 137,
+      "en": "Hell Hound Earring",
+      "ja": "魔犬のイヤリング",
+      "name": "地狱犬耳环",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/137.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应章节后自动获得；133–140 为序章、六章与尾声。"
+    },
+    {
+      "id": 138,
+      "en": "Gamer's Backpack",
+      "ja": "ゲーマーリュック",
+      "name": "游戏玩家背包",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/138.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应章节后自动获得；133–140 为序章、六章与尾声。"
+    },
+    {
+      "id": 139,
+      "en": "Giant Cell Phone",
+      "ja": "巨大携帯電話",
+      "name": "巨大手机",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/139.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应章节后自动获得；133–140 为序章、六章与尾声。"
+    },
+    {
+      "id": 140,
+      "en": "Easter Egg",
+      "ja": "イースター・エッグ",
+      "name": "复活节彩蛋",
+      "giftable": false,
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "category": "章节与特别纪念",
+      "image": "assets/dr2/gifts/140.webp",
+      "imageWidth": 150,
+      "imageHeight": 150,
+      "acquisition": "完成对应章节后自动获得；133–140 为序章、六章与尾声。"
+    }
+  ],
+  "characters": [
+    {
+      "id": "hajime",
+      "no": 1,
+      "name": "日向创",
+      "ja": "日向創",
+      "en": "Hajime Hinata",
+      "talent": "???",
+      "love": [],
+      "like": [],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Hajime_Hinata-portrait.webp",
+      "portraitWidth": 396,
+      "portraitHeight": 560,
+      "pixel": "assets/dr2/Hajime_Hinata-pixel.webp",
+      "pixelWidth": 57,
+      "pixelHeight": 60
+    },
+    {
+      "id": "nagito",
+      "no": 2,
+      "name": "狛枝凪斗",
+      "ja": "狛枝凪斗",
+      "en": "Nagito Komaeda",
+      "talent": "幸运",
+      "love": [
+        33,
+        90,
+        91
+      ],
+      "like": [
+        4,
+        12,
+        15,
+        31,
+        33,
+        36,
+        68,
+        86,
+        110
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Nagito_Komaeda-portrait.webp",
+      "portraitWidth": 408,
+      "portraitHeight": 560,
+      "pixel": "assets/dr2/Nagito_Komaeda-pixel.webp",
+      "pixelWidth": 92,
+      "pixelHeight": 88
+    },
+    {
+      "id": "byakuya2",
+      "no": 3,
+      "name": "十神白夜",
+      "ja": "十神白夜",
+      "en": "Byakuya Togami",
+      "talent": "贵公子",
+      "love": [
+        9,
+        13,
+        17,
+        45
+      ],
+      "like": [
+        2,
+        8,
+        10,
+        11,
+        12,
+        14,
+        18,
+        19,
+        30,
+        33,
+        43,
+        50,
+        68,
+        78,
+        81,
+        85,
+        86,
+        102
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Ultimate_Imposter-portrait.webp",
+      "portraitWidth": 566,
+      "portraitHeight": 555,
+      "pixel": "assets/dr2/Ultimate_Imposter-pixel.webp",
+      "pixelWidth": 88,
+      "pixelHeight": 64
+    },
+    {
+      "id": "gundham",
+      "no": 4,
+      "name": "田中眼蛇梦",
+      "ja": "田中眼蛇夢",
+      "en": "Gundham Tanaka",
+      "talent": "饲育委员",
+      "love": [
+        18,
+        31,
+        56,
+        108
+      ],
+      "like": [
+        4,
+        23,
+        33,
+        34,
+        36,
+        38,
+        62,
+        73,
+        76,
+        77,
+        81,
+        86,
+        87,
+        88,
+        89,
+        97,
+        98,
+        103
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Gundham_Tanaka-portrait.webp",
+      "portraitWidth": 508,
+      "portraitHeight": 560,
+      "pixel": "assets/dr2/Gundham_Tanaka-pixel.webp",
+      "pixelWidth": 68,
+      "pixelHeight": 80
+    },
+    {
+      "id": "kazuichi",
+      "no": 5,
+      "name": "左右田和一",
+      "ja": "左右田和一",
+      "en": "Kazuichi Soda",
+      "talent": "机械师",
+      "love": [
+        47,
+        53,
+        56,
+        70,
+        92
+      ],
+      "like": [
+        3,
+        33,
+        43,
+        44,
+        46,
+        50,
+        54,
+        58,
+        59,
+        64,
+        86,
+        94,
+        100,
+        102
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Kazuichi_Soda-portrait.webp",
+      "portraitWidth": 456,
+      "portraitHeight": 558,
+      "pixel": "assets/dr2/Kazuichi_Soda-pixel.webp",
+      "pixelWidth": 76,
+      "pixelHeight": 68
+    },
+    {
+      "id": "teruteru",
+      "no": 6,
+      "name": "花村辉辉",
+      "ja": "花村輝々",
+      "en": "Teruteru Hanamura",
+      "talent": "料理人",
+      "love": [
+        29,
+        44,
+        67
+      ],
+      "like": [
+        16,
+        17,
+        19,
+        20,
+        22,
+        25,
+        33,
+        48,
+        49,
+        66,
+        85,
+        86,
+        93,
+        101,
+        108
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Teruteru_Hanamura-portrait.webp",
+      "portraitWidth": 416,
+      "portraitHeight": 522,
+      "pixel": "assets/dr2/Teruteru_Hanamura-pixel.webp",
+      "pixelWidth": 79,
+      "pixelHeight": 76
+    },
+    {
+      "id": "nekomaru",
+      "no": 7,
+      "name": "贰大猫丸",
+      "ja": "弐大猫丸",
+      "en": "Nekomaru Nidai",
+      "talent": "经理",
+      "love": [
+        19,
+        24,
+        42,
+        89
+      ],
+      "like": [
+        8,
+        21,
+        33,
+        39,
+        51,
+        68,
+        78,
+        85,
+        86,
+        96,
+        102
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Nekomaru_Nidai-portrait.webp",
+      "portraitWidth": 706,
+      "portraitHeight": 560,
+      "pixel": "assets/dr2/Nekomaru_Nidai-pixel.webp",
+      "pixelWidth": 68,
+      "pixelHeight": 72
+    },
+    {
+      "id": "fuyuhiko",
+      "no": 8,
+      "name": "九头龙冬彦",
+      "ja": "九頭龍冬彦",
+      "en": "Fuyuhiko Kuzuryu",
+      "talent": "黑道",
+      "love": [
+        71,
+        81
+      ],
+      "like": [
+        7,
+        20,
+        23,
+        30,
+        32,
+        33,
+        37,
+        53,
+        57,
+        63,
+        74,
+        77,
+        78,
+        79,
+        80,
+        82,
+        85,
+        86,
+        101,
+        102,
+        107,
+        110
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Fuyuhiko_Kuzuryu-portrait.webp",
+      "portraitWidth": 349,
+      "portraitHeight": 521,
+      "pixel": "assets/dr2/Fuyuhiko_Kuzuryu-pixel.webp",
+      "pixelWidth": 68,
+      "pixelHeight": 64
+    },
+    {
+      "id": "akane",
+      "no": 9,
+      "name": "终里赤音",
+      "ja": "終里赤音",
+      "en": "Akane Owari",
+      "talent": "体操选手",
+      "love": [
+        8,
+        86
+      ],
+      "like": [
+        2,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        26,
+        28,
+        32,
+        33,
+        35,
+        50,
+        55,
+        73,
+        78,
+        80,
+        81,
+        85,
+        93,
+        102,
+        108,
+        109
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Akane_Owari-portrait.webp",
+      "portraitWidth": 418,
+      "portraitHeight": 560,
+      "pixel": "assets/dr2/Akane_Owari-pixel.webp",
+      "pixelWidth": 92,
+      "pixelHeight": 76
+    },
+    {
+      "id": "chiaki",
+      "no": 10,
+      "name": "七海千秋",
+      "ja": "七海千秋",
+      "en": "Chiaki Nanami",
+      "talent": "游戏玩家",
+      "love": [
+        41,
+        62,
+        64,
+        86,
+        102,
+        103
+      ],
+      "like": [
+        15,
+        18,
+        33,
+        57,
+        58,
+        59,
+        65,
+        68,
+        73,
+        78,
+        80,
+        81,
+        88
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Chiaki_Nanami-portrait.webp",
+      "portraitWidth": 319,
+      "portraitHeight": 517,
+      "pixel": "assets/dr2/Chiaki_Nanami-pixel.webp",
+      "pixelWidth": 92,
+      "pixelHeight": 72
+    },
+    {
+      "id": "sonia",
+      "no": 11,
+      "name": "索尼娅·内瓦曼德",
+      "ja": "ソニア・ネヴァーマインド",
+      "en": "Sonia Nevermind",
+      "talent": "公主",
+      "love": [
+        11,
+        21,
+        74,
+        86
+      ],
+      "like": [
+        2,
+        5,
+        6,
+        23,
+        29,
+        31,
+        32,
+        33,
+        35,
+        36,
+        38,
+        52,
+        54,
+        56,
+        63,
+        65,
+        70,
+        72,
+        75,
+        77,
+        78,
+        82,
+        85,
+        89,
+        92,
+        97,
+        100,
+        103,
+        107
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Sonia_Nevermind-portrait.webp",
+      "portraitWidth": 370,
+      "portraitHeight": 545,
+      "pixel": "assets/dr2/Sonia_Nevermind-pixel.webp",
+      "pixelWidth": 80,
+      "pixelHeight": 84
+    },
+    {
+      "id": "hiyoko",
+      "no": 12,
+      "name": "西园寺日寄子",
+      "ja": "西園寺日寄子",
+      "en": "Hiyoko Saionji",
+      "talent": "日本舞蹈家",
+      "love": [
+        35,
+        38,
+        77,
+        86,
+        102
+      ],
+      "like": [
+        3,
+        11,
+        13,
+        15,
+        23,
+        32,
+        33,
+        37,
+        45,
+        71,
+        73,
+        76,
+        78,
+        80,
+        81,
+        85,
+        110
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Hiyoko_Saionji-portrait.webp",
+      "portraitWidth": 503,
+      "portraitHeight": 548,
+      "pixel": "assets/dr2/Hiyoko_Saionji-pixel.webp",
+      "pixelWidth": 92,
+      "pixelHeight": 72
+    },
+    {
+      "id": "mahiru",
+      "no": 13,
+      "name": "小泉真昼",
+      "ja": "小泉真昼",
+      "en": "Mahiru Koizumi",
+      "talent": "摄影师",
+      "love": [
+        32,
+        54,
+        82,
+        86,
+        102,
+        107
+      ],
+      "like": [
+        22,
+        29,
+        33,
+        37,
+        39,
+        44,
+        71,
+        73,
+        78,
+        80,
+        81,
+        85,
+        93
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Mahiru_Koizumi-portrait.webp",
+      "portraitWidth": 348,
+      "portraitHeight": 530,
+      "pixel": "assets/dr2/Mahiru_Koizumi-pixel.webp",
+      "pixelWidth": 68,
+      "pixelHeight": 60
+    },
+    {
+      "id": "mikan",
+      "no": 14,
+      "name": "罪木蜜柑",
+      "ja": "罪木蜜柑",
+      "en": "Mikan Tsumiki",
+      "talent": "保健委员",
+      "love": [
+        25,
+        55,
+        109
+      ],
+      "like": [
+        22,
+        28,
+        29,
+        32,
+        33,
+        35,
+        37,
+        42,
+        48,
+        49,
+        51,
+        66,
+        67,
+        71,
+        85,
+        86,
+        93,
+        96,
+        102
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Mikan_Tsumiki-portrait.webp",
+      "portraitWidth": 466,
+      "portraitHeight": 531,
+      "pixel": "assets/dr2/Mikan_Tsumiki-pixel.webp",
+      "pixelWidth": 90,
+      "pixelHeight": 75
+    },
+    {
+      "id": "ibuki",
+      "no": 15,
+      "name": "澪田唯吹",
+      "ja": "澪田唯吹",
+      "en": "Ibuki Mioda",
+      "talent": "轻音部",
+      "love": [
+        46,
+        60,
+        75,
+        83,
+        87
+      ],
+      "like": [
+        2,
+        5,
+        9,
+        16,
+        17,
+        19,
+        20,
+        21,
+        25,
+        29,
+        31,
+        33,
+        34,
+        35,
+        37,
+        38,
+        41,
+        44,
+        49,
+        50,
+        52,
+        55,
+        57,
+        58,
+        59,
+        62,
+        63,
+        64,
+        65,
+        70,
+        72,
+        80,
+        84,
+        85,
+        86,
+        94,
+        96,
+        101,
+        102,
+        103,
+        107,
+        108,
+        109,
+        110
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Ibuki_Mioda-portrait.webp",
+      "portraitWidth": 434,
+      "portraitHeight": 560,
+      "pixel": "assets/dr2/Ibuki_Mioda-pixel.webp",
+      "pixelWidth": 92,
+      "pixelHeight": 80
+    },
+    {
+      "id": "peko",
+      "no": 16,
+      "name": "边古山佩子",
+      "ja": "辺古山ペコ",
+      "en": "Peko Pekoyama",
+      "talent": "剑道家",
+      "love": [
+        22,
+        71,
+        79,
+        86,
+        110
+      ],
+      "like": [
+        7,
+        20,
+        24,
+        30,
+        32,
+        33,
+        37,
+        44,
+        57,
+        63,
+        74,
+        77,
+        78,
+        80,
+        81,
+        82,
+        85,
+        88,
+        101,
+        102,
+        107
+      ],
+      "source": [
+        "dr2-presents",
+        "dr2-prefs"
+      ],
+      "portrait": "assets/dr2/Peko_Pekoyama-portrait.webp",
+      "portraitWidth": 449,
+      "portraitHeight": 526,
+      "pixel": "assets/dr2/Peko_Pekoyama-pixel.webp",
+      "pixelWidth": 92,
+      "pixelHeight": 76
+    }
+  ]
+}

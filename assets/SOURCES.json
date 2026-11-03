@@ -1,0 +1,3411 @@
+{
+  "checked": "2026-10-27",
+  "rights": "图像为游戏原素材；来源不是再分发许可。正式发布前核对使用条件。",
+  "files": [
+    {
+      "path": "assets/dr1/Aoi-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/2/21/Aoi_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Aoi_Asahina.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/8/8b/Aoi_Asahina_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Byakuya-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/8/88/Byakuya_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Byakuya_Togami.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/4/4c/Byakuya_Togami_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Celeste-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/a/a6/Celeste_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Celestia_Ludenberg.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/4/44/Celestia_Ludenberg_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Chihiro-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/7/75/Chihiro_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Chihiro_Fujisaki.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/c/c4/Chihiro_Fujisaki_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Hifumi-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/5/5a/Hifumi_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Hifumi_Yamada.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/d/d3/Hifumi_Yamada_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Hiro-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/3/3e/Hiro_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Junko-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/1/15/Junko_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Junko_Enoshima.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/8/82/Mukuro_Ikusaba_(Junko)_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Kiyotaka_Ishimaru.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/6/6f/Kiyotaka_Ishimaru_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Kyoko-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/e/ea/Kyoko_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Kyoko_Kirigiri.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/d/dc/Kyouko_Kyoko_Kirigiri_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Leon-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/8/8e/Leon_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Leon_Kuwata.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/7/7c/Leon_Kuwata_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Makoto_Naegi.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/e/e4/Makoto_Naegi_Halfbody_Sprite_01.png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Mondo-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/c/cf/Mondo_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Mondo_Owada.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/7/74/Mondo_Owada_Oowada_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Sakura-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/e/e1/Sakura_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Sakura_Ogami.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/9/95/Sakura_Ogami_Halfbody_Sprite_(01).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Sayaka-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/c/cc/Sayaka_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Sayaka_Maizono.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/e/e2/Sayaka_Maizono_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Taka-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/9/9e/Taka_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Toko-pixel.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/2/27/Toko_School_Mode_Icon.png/revision/latest",
+      "role": "pixel icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Toko-portrait.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/0/05/Guide_Project_Toko_01.png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Yasuhiro_Hagakure.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/2/2c/Yasuhiro_Hagakure_Halfbody_Sprite_(1).png/revision/latest",
+      "role": "character portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/menu/gifts.png",
+      "origin": "用户提供的游戏截图 Snipaste_2026-10-27_09-14-18.png",
+      "role": "首页功能图，CSS仅显示原截图 x=492 y=165 w=376 h=212 区域，原文件未改动",
+      "rights": "游戏画面归原权利人；用户提供用于界面参考。"
+    },
+    {
+      "path": "assets/dr1/menu/contacts.png",
+      "origin": "用户提供的游戏截图 Snipaste_2026-10-27_09-14-22.png",
+      "role": "首页功能图，CSS仅显示原截图 x=492 y=165 w=376 h=212 区域，原文件未改动",
+      "rights": "游戏画面归原权利人；用户提供用于界面参考。"
+    },
+    {
+      "path": "assets/dr1/menu/guide.png",
+      "origin": "用户提供的游戏截图 Snipaste_2026-10-27_09-14-26.png",
+      "role": "首页功能图，CSS仅显示原截图 x=492 y=165 w=376 h=212 区域，原文件未改动",
+      "rights": "游戏画面归原权利人；用户提供用于界面参考。"
+    },
+    {
+      "path": "assets/dr1/menu/system.png",
+      "origin": "用户提供的游戏截图 Snipaste_2026-10-27_09-14-29.png",
+      "role": "首页功能图，CSS仅显示原截图 x=492 y=165 w=376 h=212 区域，原文件未改动",
+      "rights": "游戏画面归原权利人；用户提供用于界面参考。"
+    },
+    {
+      "path": "assets/dr1/menu/contacts-v2.png",
+      "origin": "AI generated with built-in image_gen.imagegen",
+      "role": "New functional menu illustration; no red scanning beam. Distinct gift-box and backpack subjects.",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json",
+      "reference": "User-provided DR1 handbook screenshot as style reference only",
+      "created": "2026-10-27"
+    },
+    {
+      "path": "assets/dr1/menu/gifts-v2.png",
+      "origin": "AI generated with built-in image_gen.imagegen",
+      "role": "New functional menu illustration; no red scanning beam. Distinct gift-box and backpack subjects.",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json",
+      "reference": "User-provided DR1 handbook screenshot as style reference only",
+      "created": "2026-10-27"
+    },
+    {
+      "path": "assets/dr1/menu/bag-v2.png",
+      "origin": "AI generated with built-in image_gen.imagegen",
+      "role": "New functional menu illustration; no red scanning beam. Distinct gift-box and backpack subjects.",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json",
+      "reference": "User-provided DR1 handbook screenshot as style reference only",
+      "created": "2026-10-27"
+    },
+    {
+      "path": "assets/dr1/menu/guide-v2.png",
+      "origin": "AI generated with built-in image_gen.imagegen",
+      "role": "New functional menu illustration; no red scanning beam. Distinct gift-box and backpack subjects.",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json",
+      "reference": "User-provided DR1 handbook screenshot as style reference only",
+      "created": "2026-10-27"
+    },
+    {
+      "path": "assets/dr1/menu/system-v2.png",
+      "origin": "AI generated with built-in image_gen.imagegen",
+      "role": "New functional menu illustration; no red scanning beam. Distinct gift-box and backpack subjects.",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json",
+      "reference": "User-provided DR1 handbook screenshot as style reference only",
+      "created": "2026-10-27"
+    },
+    {
+      "path": "assets/dr1/Toko-hd-01.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/1/11/Danganronpa_1_Toko_Touko_Fukawa_Halfbody_Sprite_01.png/revision/latest",
+      "role": "DR1 character portrait",
+      "rights": "Game artwork; rights belong to original rights holders. Source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/hope-peak-crest.webp",
+      "url": "https://vignette.wikia.nocookie.net/shipping/images/5/5c/Hope%27s_Peak_Academy_Logo.png/revision/latest",
+      "role": "Hope’s Peak Academy crest; displayed with grayscale and screen blending",
+      "rights": "Game artwork; rights belong to original rights holders. Source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr1/Makoto-pixel-original.webp",
+      "url": "https://vignette.wikia.nocookie.net/danganronpa/images/f/f1/Danganronpa_1_School_Mode_Makoto_Naegi_Pixel_Sprite_01.png/revision/latest",
+      "role": "Original DR1 School Mode sprite; CSS displays the head in the classmate roster",
+      "rights": "Game artwork; rights belong to original rights holders."
+    },
+    {
+      "path": "assets/dr1/menu/contacts-v2.webp",
+      "origin": "AI generated with built-in image_gen.imagegen",
+      "role": "New functional menu illustration; no red scanning beam. Distinct gift-box and backpack subjects.",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json",
+      "reference": "User-provided DR1 handbook screenshot as style reference only",
+      "created": "2026-10-27",
+      "derived_from": "assets/dr1/menu/contacts-v2.png",
+      "conversion": "2026-10-30: 960x540 WebP, Pillow quality 90. Composition and palette retained."
+    },
+    {
+      "path": "assets/dr1/menu/gifts-v2.webp",
+      "origin": "AI generated with built-in image_gen.imagegen",
+      "role": "New functional menu illustration; no red scanning beam. Distinct gift-box and backpack subjects.",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json",
+      "reference": "User-provided DR1 handbook screenshot as style reference only",
+      "created": "2026-10-27",
+      "derived_from": "assets/dr1/menu/gifts-v2.png",
+      "conversion": "2026-10-30: 960x540 WebP, Pillow quality 90. Composition and palette retained."
+    },
+    {
+      "path": "assets/dr1/menu/bag-v2.webp",
+      "origin": "AI generated with built-in image_gen.imagegen",
+      "role": "New functional menu illustration; no red scanning beam. Distinct gift-box and backpack subjects.",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json",
+      "reference": "User-provided DR1 handbook screenshot as style reference only",
+      "created": "2026-10-27",
+      "derived_from": "assets/dr1/menu/bag-v2.png",
+      "conversion": "2026-10-30: 960x540 WebP, Pillow quality 90. Composition and palette retained."
+    },
+    {
+      "path": "assets/dr1/menu/guide-v2.webp",
+      "origin": "AI generated with built-in image_gen.imagegen",
+      "role": "New functional menu illustration; no red scanning beam. Distinct gift-box and backpack subjects.",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json",
+      "reference": "User-provided DR1 handbook screenshot as style reference only",
+      "created": "2026-10-27",
+      "derived_from": "assets/dr1/menu/guide-v2.png",
+      "conversion": "2026-10-30: 960x540 WebP, Pillow quality 90. Composition and palette retained."
+    },
+    {
+      "path": "assets/dr1/menu/system-v2.webp",
+      "origin": "AI generated with built-in image_gen.imagegen",
+      "role": "New functional menu illustration; no red scanning beam. Distinct gift-box and backpack subjects.",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json",
+      "reference": "User-provided DR1 handbook screenshot as style reference only",
+      "created": "2026-10-27",
+      "derived_from": "assets/dr1/menu/system-v2.png",
+      "conversion": "2026-10-30: 960x540 WebP, Pillow quality 90. Composition and palette retained."
+    },
+    {
+      "path": "assets/dr1/menu/bag-v3-purple.webp",
+      "origin": "Built-in image_gen.imagegen edit, 2026-10-30",
+      "derived_from": "assets/dr1/menu/bag-v2.webp",
+      "role": "Purple backpack menu preview; independent section theme",
+      "original_output": "assets/dr1/menu/bag-v3-purple.png",
+      "conversion": "WebP quality 90, maximum 960x540",
+      "prompt_set": "assets/dr1/menu/generation-prompts.json"
+    },
+    {
+      "path": "assets/dr2/Akane_Owari-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/af/Akane_Owari_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170819153503",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Akane_Owari-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/9b/Akane_Owari_Island_Mode_Icon.png/revision/latest?cb=20170218094818",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Chiaki_Nanami-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/be/Chiaki_Nanami_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170818170151",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Chiaki_Nanami-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/93/Chiaki_Nanami_Island_Mode_Icon.png/revision/latest?cb=20170218094822",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Fuyuhiko_Kuzuryu-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/2/20/Fuyuhiko_Kuzuryuu_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170331153821",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Fuyuhiko_Kuzuryu-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/69/Fuyuhiko_Kuzuryu_Island_Mode_Icon.png/revision/latest?cb=20170218094820",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Gundham_Tanaka-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/9a/Gundham_Tanaka_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170818082444",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Gundham_Tanaka-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/3/34/Gundham_Tanaka_Island_Mode_Icon.png/revision/latest?cb=20170218094821",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Hajime_Hinata-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/5f/Hajime_Hinata_Halfbody_Sprite_01.png/revision/latest?cb=20170816142818",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Hajime_Hinata-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/08/Danganronpa_2_Hajime_Hinata_Pixel_Sprites_%2814%29.gif/revision/latest?cb=20170816151228",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Hiyoko_Saionji-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/5e/Hiyoko_Saionji_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170818211218",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Hiyoko_Saionji-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/66/Hiyoko_Saionji_Island_Mode_Icon.png/revision/latest?cb=20170218094821",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Ibuki_Mioda-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/64/Ibuki_Mioda_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170819102627",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Ibuki_Mioda-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/a1/Ibuki_Mioda_Island_Mode_Icon.png/revision/latest?cb=20170218094822",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Kazuichi_Soda-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/c/c9/Kazuichi_Soda_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170818160140",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Kazuichi_Soda-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/f2/Kazuichi_Soda_Island_Mode_Icon.png/revision/latest?cb=20170218094823",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Mahiru_Koizumi-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/43/Mahiru_Koizumi_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170819091752",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Mahiru_Koizumi-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/0d/Mahiru_Koizumi_Island_Mode_Icon.png/revision/latest?cb=20170218094823",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Mikan_Tsumiki-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/62/Mikan_Tsumiki_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170817082521",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Mikan_Tsumiki-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/0c/Mikan_Tsumiki_Island_Mode_Icon.png/revision/latest?cb=20170218105640",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Nagito_Komaeda-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/9d/Nagito_Komaeda_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170816162254",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Nagito_Komaeda-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/3/3f/Nagito_Komaeda_Island_Mode_Icon.png/revision/latest?cb=20170218094824",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Nekomaru_Nidai-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/4b/Nekomaru_Nidai_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170819134740",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Nekomaru_Nidai-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/42/Nekomaru_Nidai_Island_Mode_Icon.png/revision/latest?cb=20170218094824",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Peko_Pekoyama-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/e5/Peko_Pekoyama_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170819123953",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Peko_Pekoyama-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/e6/Peko_Pekoyama_Island_Mode_Icon.png/revision/latest?cb=20170218094825",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Sonia_Nevermind-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/1/1c/Sonia_Nevermind_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170818120327",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Sonia_Nevermind-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/8/87/Sonia_Nevermind_Island_Mode_Icon.png/revision/latest?cb=20170218094825",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Teruteru_Hanamura-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/bc/Teruteru_Hanamura_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170817120817",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Teruteru_Hanamura-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/b8/Teruteru_Hanamura_Island_Mode_Icon.png/revision/latest?cb=20170218105640",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Ultimate_Imposter-portrait.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/65/The_Ultimate_Imposter_Halfbody_Sprite_%281%29.png/revision/latest?cb=20170818093816",
+      "role": "portrait",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/Ultimate_Imposter-pixel.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/2/2d/Imposter_Island_Mode_Icon.png/revision/latest?cb=20170218094820",
+      "role": "pixel",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/001.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/bd/DR2_Present_001_Mineral_Water.png/revision/latest?cb=20170507214053",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/002.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/53/DR2_Present_002_Ramune.png/revision/latest?cb=20170507214145",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/003.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/e8/DR2_Present_003_Coconut_Juice.png/revision/latest?cb=20170507214201",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/004.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/56/DR2_Present_004_Blue_Ram.png/revision/latest?cb=20170507214211",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/005.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/a3/DR2_Present_005_Civet_Coffee.png/revision/latest?cb=20170507214221",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/006.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/3/3c/DR2_Present_006_Cinnamon_Tea.png/revision/latest?cb=20170507214621",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/007.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/4a/DR2_Present_007_Non-Alcoholic_Wine.png/revision/latest?cb=20170507214642",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/008.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/f7/DR2_Present_008_Prepackaged_Orzotto.png/revision/latest?cb=20170507214647",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/009.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/2/26/DR2_Present_009_Chocolate_Chip_Jerky.png/revision/latest?cb=20170507214655",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/010.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/d/de/DR2_Present_010_Cod_Roe_Baguette.png/revision/latest?cb=20170507214702",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/011.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/c/cd/DR2_Present_011_Gugelhupf_Cake.png/revision/latest?cb=20170507214927",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/012.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/04/DR2_Present_012_Hardtack_of_Hope.png/revision/latest?cb=20170507214939",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/013.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/7/7c/DR2_Present_013_Sweet_Bun_Bag.png/revision/latest?cb=20170507215017",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/014.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/5f/DR2_Present_014_Potato_Chips.png/revision/latest?cb=20170507215029",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/015.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/c/cb/DR2_Present_015_Viva_Ice.png/revision/latest?cb=20170507215040",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/016.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/3/3d/DR2_Present_016_Jabba%27s_Natural_Salt.png/revision/latest?cb=20170507215142",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/017.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/51/DR2_Present_017_Cocoshimi.png/revision/latest?cb=20170507215200",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/018.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/40/DR2_Present_018_Sunflower_Seeds.png/revision/latest?cb=20170507215210",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/019.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/7/72/DR2_Present_019_Coconut.png/revision/latest?cb=20170507215221",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/020.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/63/DR2_Present_020_Iroha_T-Shirt.png/revision/latest?cb=20170507215235",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/021.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/a0/DR2_Present_021_Brightly_Colored_Jeans.png/revision/latest?cb=20170507215323",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/022.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/3/36/DR2_Present_022_Apron_Dress.png/revision/latest?cb=20170507215335",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/023.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/c/ce/DR2_Present_023_Falkor%27s_Muffler.png/revision/latest?cb=20170507215343",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/024.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/6a/DR2_Present_024_Fresh_Bindings.png/revision/latest?cb=20170507215405",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/025.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/92/DR2_Present_025_Queen%E2%80%99s_Straitjacket.png/revision/latest?cb=20170507215416",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/026.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/8/83/DR2_Present_026_Spy_Spike.png/revision/latest?cb=20170507233228",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/027.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/bd/DR2_Present_027_Secret_Boots.png/revision/latest?cb=20170507233257",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/028.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/0b/DR2_Present_028_Safety_Half-Shoes.png/revision/latest?cb=20170507233303",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/029.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/06/DR2_Present_029_Passionate_Glasses.png/revision/latest?cb=20170507233311",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/030.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/e9/DR2_Present_030_Bvlbari%27s_Gold.png/revision/latest?cb=20170507233319",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/031.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/4c/DR2_Present_031_Earring_of_Crushed_Evil.png/revision/latest?cb=20170507233409",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/032.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/e3/DR2_Present_032_Silver_Ring.png/revision/latest?cb=20170507233417",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/033.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/9f/DR2_Present_033_Hope%27s_Peak_Ring.png/revision/latest?cb=20170507233427",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/034.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/f1/DR2_Present_034_Spectre_Ring.png/revision/latest?cb=20170507233433",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/035.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/e0/DR2_Present_035_Cloth_Wrap_Backpack.png/revision/latest?cb=20170507233445",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/036.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/eb/DR2_Present_036_Another_Hope.png/revision/latest?cb=20170507233611",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/037.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/d/d6/DR2_Present_037_Jabbaian_Jewelry.png/revision/latest?cb=20170507233619",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/038.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/a7/DR2_Present_038_Biggest_Fantom.png/revision/latest?cb=20170507233630",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/039.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/f8/DR2_Present_039_Ubiquitous_Handbook.png/revision/latest?cb=20170507233637",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/040.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/b3/DR2_Present_040_Millennium_Prize_Problems.png/revision/latest?cb=20170507233704",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/041.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/9e/DR2_Present_041_Tips_and_Tips_2nd_Edition.png/revision/latest?cb=20170507234140",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/042.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/07/DR2_Present_042_Ogami_Clan_Codex.png/revision/latest?cb=20170507233759",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/043.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/fb/DR2_Present_043_Men%27s_Manma.png/revision/latest?cb=20170507233807",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/044.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/59/DR2_Present_044_Kiss_Note.png/revision/latest?cb=20170507233813",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/045.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/92/DR2_Present_045_Black_Rabbit_Picture_Book.png/revision/latest?cb=20170507233819",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/046.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/aa/DR2_Present_046_2_5D_Headphones.png/revision/latest?cb=20170507233856",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/047.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/07/DR2_Present_047_Radiosonde.png/revision/latest?cb=20170507233922",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/048.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/c/c0/DR2_Present_048_Male_Cylinder.png/revision/latest?cb=20170507233932",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/049.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/1/12/DR2_Present_049_Measuring_Flask.png/revision/latest?cb=20170507233938",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/050.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/99/DR2_Present_050_Razor_Ramon_HG.png/revision/latest?cb=20170507233945",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/051.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/f0/DR2_Present_051_Infrared_Thermometer.png/revision/latest?cb=20170508023924",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/052.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/0a/DR2_Present_052_Flash_Suppressor.png/revision/latest?cb=20170508023929",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/053.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/1/17/DR2_Present_053_Lilienthal%E2%80%99s_Wings.png/revision/latest?cb=20170508023936",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/054.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/a8/DR2_Present_054_Kirlian_Photography.png/revision/latest?cb=20170508023942",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/055.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/a5/DR2_Present_055_Mr_Stapler.png/revision/latest?cb=20170508023953",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/056.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/3/35/DR2_Present_056_Small_Degenerated_Reactor.png/revision/latest?cb=20170508024035",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/057.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/48/DR2_Present_057_Many-Sided_Dice_Set.png/revision/latest?cb=20170508024041",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/058.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/a9/DR2_Present_058_The_Funbox.png/revision/latest?cb=20170508025140",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/059.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/c/cd/DR2_Present_059_The_Funplane.png/revision/latest?cb=20170508024146",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/060.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/8/89/DR2_Present_060_American_Clacker.png/revision/latest?cb=20170508024206",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/062.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/c/cb/DR2_Present_062_Power_Gauntlet.png/revision/latest?cb=20170508024239",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/063.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/1/17/DR2_Present_063_Mesopotamia.png/revision/latest?cb=20170508024244",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/064.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/ac/DR2_Present_064_Nitro_Racer.png/revision/latest?cb=20170508024250",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/065.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/0c/DR2_Present_065_Slap_Bracelet.png/revision/latest?cb=20170508024254",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/066.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/0d/DR2_Present_066_Gag_Ball.png/revision/latest?cb=20170508024339",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/067.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/aa/DR2_Present_067_Kokeshi_Dynamo.png/revision/latest?cb=20170508024344",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/068.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/68/DR2_Present_068_Go_Stone.png/revision/latest?cb=20170508025232",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/069.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/e6/DR2_Present_069_Message_In_a_Bottle.png/revision/latest?cb=20170508024401",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/070.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/06/DR2_Present_070_Old_Timey_Radio.png/revision/latest?cb=20170508024407",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/071.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/e0/DR2_Present_071_Antique_Doll.png/revision/latest?cb=20170508024432",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/072.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/fd/DR2_Present_072_The_Second_Button.png/revision/latest?cb=20170508024437",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/073.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/0a/DR2_Present_073_Moon_Rock.png/revision/latest?cb=20170508024442",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/074.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/61/DR2_Present_074_Another_Battle.png/revision/latest?cb=20170508024446",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/075.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/7/7e/DR2_Present_075_Desperation.png/revision/latest?cb=20170508024451",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/076.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/ae/DR2_Present_076_1000_Cherry_Blossoms.png/revision/latest?cb=20170508165711",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/077.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/5d/DR2_Present_077_Paper_10th_Act_Verse.png/revision/latest?cb=20170508165727",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/078.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/7/76/DR2_Present_078_Marine_Snow.png/revision/latest?cb=20170508165732",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/079.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/f6/DR2_Present_079_Gold_Coated_Sheath.png/revision/latest?cb=20170508165738",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/080.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/4b/DR2_Present_080_Mini_Wave-Dissipaters.png/revision/latest?cb=20170508165743",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/081.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/f9/DR2_Present_081_Stardust.png/revision/latest?cb=20170508165854",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/082.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/a7/DR2_Present_082_Japanese_Tea_Cup.png/revision/latest?cb=20170508165900",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/083.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/ac/DR2_Present_083_Two-Sided_Ukulele.png/revision/latest?cb=20170508165905",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/084.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/90/DR2_Present_084_Collapsible_Fishing_Rod.png/revision/latest?cb=20170508165920",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/085.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/1/1a/DR2_Present_085_Bojobo_Dolls.png/revision/latest?cb=20170508165927",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/086.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/9a/DR2_Present_086_Century_Potpourri.png/revision/latest?cb=20170508170109",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/087.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/b8/DR2_Present_087_Absolute_Tuning_Fork.png/revision/latest?cb=20170508170115",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/088.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/d/dd/DR2_Present_088_Seven_Sword.png/revision/latest?cb=20170508171909",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/089.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/07/DR2_Present_089_Sand_God%27s_Storm_Horn.png/revision/latest?cb=20170508170120",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/090.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/d/dd/DR2_Present_090_Memory_Notebook.png/revision/latest?cb=20170508170125",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/091.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/8/84/DR2_Present_091_Mukuro%27s_Knife.png/revision/latest?cb=20170508171914",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/092.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/e5/DR2_Present_092_Broken_Warhead.png/revision/latest?cb=20170508170218",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/093.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/0a/DR2_Present_093_Girl_with_the_Bear_Hairpin.png/revision/latest?cb=20170508170237",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/094.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/2/25/DR2_Present_094_Bar.png/revision/latest?cb=20170508171920",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/095.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/7/7c/DR2_Present_095_Dip_Pen.png/revision/latest?cb=20170508170336",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/096.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/6d/DR2_Present_096_Tissue.png/revision/latest?cb=20170508170341",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/097.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/98/DR2_Present_097_Jabba_the_Frog.png/revision/latest?cb=20170508170346",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/098.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/2/23/DR2_Present_098_Iguana_Daughter.png/revision/latest?cb=20170508170350",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/099.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/3/35/DR2_Present_099_Dull_Kitchen_Knife.png/revision/latest?cb=20170508170331",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/100.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/95/DR2_Present_100_Occult_Photo_Frame.png/revision/latest?cb=20170508170453",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/101.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/07/DR2_Present_101_Lust_Setsugekka.png/revision/latest?cb=20170508170458",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/102.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/2/27/DR2_Present_102_Rose_In_Vitro.png/revision/latest?cb=20170508170504",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/103.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/c/c9/DR2_Present_103_Skullhead_Mask.png/revision/latest?cb=20170508170611",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/107.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/fa/DR2_Present_107_Compact_Costume.png/revision/latest?cb=20170508170556",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/108.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/5f/DR2_Present_108_Angel%27s_Fruit.png/revision/latest?cb=20170508170602",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/109.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/a/a2/DR2_Present_109_Bandage_Wrap.png/revision/latest?cb=20170508170727",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/110.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/08/DR2_Present_110_Secret_Wind_Sword_Book.png/revision/latest?cb=20170508170733",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/112.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/4e/DR2_Present_112_Hagakure_Crystal_Ball.png/revision/latest?cb=20170508170745",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/114.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/e7/DR2_Present_114_Used_Carrot.png/revision/latest?cb=20170508170758",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/115.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/d/d7/DR2_Present_115_Nagito%27s_Undergarments.png/revision/latest?cb=20170508174535",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/116.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/8/8f/DR2_Present_116_Byakuya%27s_Undergarments.png/revision/latest?cb=20170508174544",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/117.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/7/73/DR2_Present_117_Gundham%27s_Undergarments.png/revision/latest?cb=20170508174558",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/118.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/5e/DR2_Present_118_Kazuichi%27s_Undergarments.png/revision/latest?cb=20170508174604",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/119.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/2/23/DR2_Present_119_Teruteru%27s_Undergarments.png/revision/latest?cb=20170508174652",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/120.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/b7/DR2_Present_120_Nekomaru%27s_Undergarments.png/revision/latest?cb=20170508174657",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/121.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/60/DR2_Present_121_Fuyuhiko%27s_Undergarments.png/revision/latest?cb=20170508174703",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/122.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/bc/DR2_Present_122_Akane%27s_Undergarments.png/revision/latest?cb=20170508174710",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/123.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/93/DR2_Present_123_Chiaki%27s_Undergarments.png/revision/latest?cb=20170508174715",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/124.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/7/74/DR2_Present_124_Sonia%27s_Undergarments.png/revision/latest?cb=20170508174721",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/125.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/c/cb/DR2_Present_125_Hiyoko%27s_Undergarments.png/revision/latest?cb=20170508174811",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/126.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/4c/DR2_Present_126_Mahiru%27s_Undergarments.png/revision/latest?cb=20170508174815",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/127.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/f/f0/DR2_Present_127_Mikan%27s_Undergarments.png/revision/latest?cb=20170508174820",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/128.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/8/8e/DR2_Present_128_Ibuki%27s_Undergarments.png/revision/latest?cb=20171013194300",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/129.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/e/eb/DR2_Present_129_Peko%27s_Undergarments.png/revision/latest?cb=20170508174831",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/061.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/8/84/DR2_Present_061_Toy_Camera.png/revision/latest?cb=20170508024234",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/104.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/3/30/DR2_Present_104_Replica_Sword.png/revision/latest?cb=20170508171925",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/105.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/6e/DR2_Present_105_An_An_Aan.png/revision/latest?cb=20170508170545",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/106.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/7/72/DR2_Present_106_Man%27s_Nut.png/revision/latest?cb=20170508170550",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/111.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/2/2c/DR2_Present_111_Summer_Festival_Tree.png/revision/latest?cb=20170508170738",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/113.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/3/38/DR2_Present_113_RC_4WD_Battler_Taro.png/revision/latest?cb=20170508170939",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/130.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/0/0e/DR2_Present_130_Wooden_Stick.png/revision/latest?cb=20170508180420",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/131.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/7/78/DR2_Present_131_Usami_Strap.png/revision/latest?cb=20170508180427",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/132.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/5e/DR2_Present_132_Danganronpa_IF.png/revision/latest?cb=20170508180433",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/133.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/48/DR2_Present_133_Fosho_Broken_Wand.png/revision/latest?cb=20170508180901",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/134.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/6/69/DR2_Present_134_3_Star_Badge.png/revision/latest?cb=20170508180907",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/135.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/b9/DR2_Present_135_Black_Dragon_Blade.png/revision/latest?cb=20170508180914",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/136.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/1/10/DR2_Present_136_Nurse%27s_Apron.png/revision/latest?cb=20170508180454",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/137.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/5/52/DR2_Present_137_Hell_Hound_Earring.png/revision/latest?cb=20170508180532",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/138.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/9/9e/DR2_Present_138_Gamer%27s_Backpack.png/revision/latest?cb=20170508180538",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/139.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/b/b9/DR2_Present_139_Giant_Cell_Phone.png/revision/latest?cb=20170508180543",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/140.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/4/43/DR2_Present_140_Easter_Egg.png/revision/latest?cb=20170508180549",
+      "role": "gift sprite",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/gifts/monocoin.webp",
+      "url": "https://static.wikia.nocookie.net/danganronpa/images/d/d3/Monocoin.png/revision/latest?cb=20170424194534",
+      "role": "handbook icon",
+      "rights": "Game artwork: Spike Chunsoft and original rights holders; source listing is not redistribution permission."
+    },
+    {
+      "path": "assets/dr2/menu/contacts.svg",
+      "url": null,
+      "role": "project-authored pixel-style function icon",
+      "rights": "Project-authored vector UI; style reference: user-provided DR2 Steam PC screenshots, 2026-10-30."
+    },
+    {
+      "path": "assets/dr2/menu/gifts.svg",
+      "url": null,
+      "role": "project-authored pixel-style function icon",
+      "rights": "Project-authored vector UI; style reference: user-provided DR2 Steam PC screenshots, 2026-10-30."
+    },
+    {
+      "path": "assets/dr2/menu/bag.svg",
+      "url": null,
+      "role": "project-authored pixel-style function icon",
+      "rights": "Project-authored vector UI; style reference: user-provided DR2 Steam PC screenshots, 2026-10-30."
+    },
+    {
+      "path": "assets/dr2/menu/guide.svg",
+      "url": null,
+      "role": "project-authored pixel-style function icon",
+      "rights": "Project-authored vector UI; style reference: user-provided DR2 Steam PC screenshots, 2026-10-30."
+    },
+    {
+      "path": "assets/dr2/menu/system.svg",
+      "url": null,
+      "role": "project-authored pixel-style function icon",
+      "rights": "Project-authored vector UI; style reference: user-provided DR2 Steam PC screenshots, 2026-10-30."
+    },
+    {
+      "path": "assets/dr2/ui/techou_bg-2.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_bg.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_present-1.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_present.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_present-2.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_present.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_system-12.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_system.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_system-9.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_system.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-10.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-11.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-12.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-13.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-15.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-16.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-17.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-31.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-6.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-8.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/dr2/ui/techou_top-9.webp",
+      "url": "https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/",
+      "role": "Original Steam PC electronic handbook UI",
+      "source": "dr2_data_ch.wad / Dr2/data/us/flash/techou_top.pak",
+      "conversion": "Read-only archive extraction; original indexed BGRA palette decoded to lossless WebP. No redrawing or resampling.",
+      "checked": "2026-10-30"
+    },
+    {
+      "path": "assets/v3/gifts/001.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_000.spc",
+      "texture": "present_icon_000",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/002.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_001.spc",
+      "texture": "present_icon_001",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/003.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_002.spc",
+      "texture": "present_icon_002",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/004.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_003.spc",
+      "texture": "present_icon_003",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/005.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_004.spc",
+      "texture": "present_icon_004",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/006.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_005.spc",
+      "texture": "present_icon_005",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/007.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_006.spc",
+      "texture": "present_icon_006",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/008.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_007.spc",
+      "texture": "present_icon_007",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/009.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_008.spc",
+      "texture": "present_icon_008",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/010.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_009.spc",
+      "texture": "present_icon_009",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/011.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_010.spc",
+      "texture": "present_icon_010",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/012.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_011.spc",
+      "texture": "present_icon_011",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/013.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_012.spc",
+      "texture": "present_icon_012",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/014.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_013.spc",
+      "texture": "present_icon_013",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/015.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_014.spc",
+      "texture": "present_icon_014",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/016.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_015.spc",
+      "texture": "present_icon_015",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/017.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_016.spc",
+      "texture": "present_icon_016",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/018.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_017.spc",
+      "texture": "present_icon_017",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/019.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_018.spc",
+      "texture": "present_icon_018",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/020.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_019.spc",
+      "texture": "present_icon_019",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/021.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_020.spc",
+      "texture": "present_icon_020",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/022.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_021.spc",
+      "texture": "present_icon_021",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/023.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_022.spc",
+      "texture": "present_icon_022",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/024.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_023.spc",
+      "texture": "present_icon_023",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/025.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_024.spc",
+      "texture": "present_icon_024",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/026.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_025.spc",
+      "texture": "present_icon_025",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/027.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_026.spc",
+      "texture": "present_icon_026",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/028.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_027.spc",
+      "texture": "present_icon_027",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/029.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_028.spc",
+      "texture": "present_icon_028",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/030.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_029.spc",
+      "texture": "present_icon_029",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/031.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_030.spc",
+      "texture": "present_icon_030",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/032.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_031.spc",
+      "texture": "present_icon_031",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/033.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_032.spc",
+      "texture": "present_icon_032",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/034.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_033.spc",
+      "texture": "present_icon_033",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/035.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_034.spc",
+      "texture": "present_icon_034",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/036.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_035.spc",
+      "texture": "present_icon_035",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/037.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_036.spc",
+      "texture": "present_icon_036",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/038.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_037.spc",
+      "texture": "present_icon_037",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/039.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_038.spc",
+      "texture": "present_icon_038",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/040.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_039.spc",
+      "texture": "present_icon_039",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/041.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_040.spc",
+      "texture": "present_icon_040",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/042.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_041.spc",
+      "texture": "present_icon_041",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/043.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_042.spc",
+      "texture": "present_icon_042",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/044.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_043.spc",
+      "texture": "present_icon_043",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/045.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_044.spc",
+      "texture": "present_icon_044",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/046.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_045.spc",
+      "texture": "present_icon_045",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/047.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_046.spc",
+      "texture": "present_icon_046",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/048.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_047.spc",
+      "texture": "present_icon_047",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/049.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_048.spc",
+      "texture": "present_icon_048",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/050.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_049.spc",
+      "texture": "present_icon_049",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/051.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_050.spc",
+      "texture": "present_icon_050",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/052.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_051.spc",
+      "texture": "present_icon_051",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/053.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_052.spc",
+      "texture": "present_icon_052",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/054.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_053.spc",
+      "texture": "present_icon_053",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/055.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_054.spc",
+      "texture": "present_icon_054",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/056.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_055.spc",
+      "texture": "present_icon_055",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/057.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_056.spc",
+      "texture": "present_icon_056",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/058.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_057.spc",
+      "texture": "present_icon_057",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/059.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_058.spc",
+      "texture": "present_icon_058",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/060.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_059.spc",
+      "texture": "present_icon_059",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/061.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_060.spc",
+      "texture": "present_icon_060",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/062.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_061.spc",
+      "texture": "present_icon_061",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/063.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_062.spc",
+      "texture": "present_icon_062",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/064.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_063.spc",
+      "texture": "present_icon_063",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/065.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_064.spc",
+      "texture": "present_icon_064",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/066.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_065.spc",
+      "texture": "present_icon_065",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/067.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_066.spc",
+      "texture": "present_icon_066",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/068.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_067.spc",
+      "texture": "present_icon_067",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/069.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_068.spc",
+      "texture": "present_icon_068",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/070.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_069.spc",
+      "texture": "present_icon_069",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/071.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_070.spc",
+      "texture": "present_icon_070",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/072.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_071.spc",
+      "texture": "present_icon_071",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/073.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_072.spc",
+      "texture": "present_icon_072",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/074.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_073.spc",
+      "texture": "present_icon_073",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/075.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_074.spc",
+      "texture": "present_icon_074",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/076.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_075.spc",
+      "texture": "present_icon_075",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/077.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_076.spc",
+      "texture": "present_icon_076",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/078.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_077.spc",
+      "texture": "present_icon_077",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/079.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_078.spc",
+      "texture": "present_icon_078",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/080.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_079.spc",
+      "texture": "present_icon_079",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/081.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_080.spc",
+      "texture": "present_icon_080",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/082.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_081.spc",
+      "texture": "present_icon_081",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/083.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_082.spc",
+      "texture": "present_icon_082",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/084.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_083.spc",
+      "texture": "present_icon_083",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/085.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_084.spc",
+      "texture": "present_icon_084",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/086.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_085.spc",
+      "texture": "present_icon_085",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/087.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_086.spc",
+      "texture": "present_icon_086",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/088.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_087.spc",
+      "texture": "present_icon_087",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/089.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_088.spc",
+      "texture": "present_icon_088",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/090.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_089.spc",
+      "texture": "present_icon_089",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/091.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_090.spc",
+      "texture": "present_icon_090",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/092.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_091.spc",
+      "texture": "present_icon_091",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/093.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_092.spc",
+      "texture": "present_icon_092",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/094.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_093.spc",
+      "texture": "present_icon_093",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/095.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_094.spc",
+      "texture": "present_icon_094",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/096.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_095.spc",
+      "texture": "present_icon_095",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/097.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_096.spc",
+      "texture": "present_icon_096",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/098.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_097.spc",
+      "texture": "present_icon_097",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/099.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_098.spc",
+      "texture": "present_icon_098",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/100.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_099.spc",
+      "texture": "present_icon_099",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/101.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_100.spc",
+      "texture": "present_icon_100",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/102.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_101.spc",
+      "texture": "present_icon_101",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/103.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_102.spc",
+      "texture": "present_icon_102",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/104.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_103.spc",
+      "texture": "present_icon_103",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/105.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_104.spc",
+      "texture": "present_icon_104",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/106.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_105.spc",
+      "texture": "present_icon_105",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/107.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_106.spc",
+      "texture": "present_icon_106",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/108.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_107.spc",
+      "texture": "present_icon_107",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/109.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_108.spc",
+      "texture": "present_icon_108",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/110.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_109.spc",
+      "texture": "present_icon_109",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/111.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_110.spc",
+      "texture": "present_icon_110",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/112.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_111.spc",
+      "texture": "present_icon_111",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/113.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_112.spc",
+      "texture": "present_icon_112",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/114.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_113.spc",
+      "texture": "present_icon_113",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/115.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_114.spc",
+      "texture": "present_icon_114",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/116.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_115.spc",
+      "texture": "present_icon_115",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/117.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_116.spc",
+      "texture": "present_icon_116",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/118.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_117.spc",
+      "texture": "present_icon_117",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/119.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_118.spc",
+      "texture": "present_icon_118",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/120.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_119.spc",
+      "texture": "present_icon_119",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/121.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_120.spc",
+      "texture": "present_icon_120",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/122.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_121.spc",
+      "texture": "present_icon_121",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/123.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_122.spc",
+      "texture": "present_icon_122",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/124.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_123.spc",
+      "texture": "present_icon_123",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/125.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_124.spc",
+      "texture": "present_icon_124",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/126.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_125.spc",
+      "texture": "present_icon_125",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/127.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_126.spc",
+      "texture": "present_icon_126",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/128.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_127.spc",
+      "texture": "present_icon_127",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/129.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_128.spc",
+      "texture": "present_icon_128",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/130.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_129.spc",
+      "texture": "present_icon_129",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/131.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_130.spc",
+      "texture": "present_icon_130",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/132.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_131.spc",
+      "texture": "present_icon_131",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/133.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_132.spc",
+      "texture": "present_icon_132",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/134.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_133.spc",
+      "texture": "present_icon_133",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/135.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_134.spc",
+      "texture": "present_icon_134",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/136.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_135.spc",
+      "texture": "present_icon_135",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/137.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_136.spc",
+      "texture": "present_icon_136",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/138.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_137.spc",
+      "texture": "present_icon_137",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/139.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_138.spc",
+      "texture": "present_icon_138",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/140.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_139.spc",
+      "texture": "present_icon_139",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/141.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_140.spc",
+      "texture": "present_icon_140",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/142.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_141.spc",
+      "texture": "present_icon_141",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/gifts/143.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/present/present_icon_142.spc",
+      "texture": "present_icon_142",
+      "role": "gift",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-000.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_000.spc",
+      "texture": "chara_image_000",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-001.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_001.spc",
+      "texture": "chara_image_001",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-002.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_002.spc",
+      "texture": "chara_image_002",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-003.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_003.spc",
+      "texture": "chara_image_003",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-004.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_004.spc",
+      "texture": "chara_image_004",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-005.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_005.spc",
+      "texture": "chara_image_005",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-006.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_006.spc",
+      "texture": "chara_image_006",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-007.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_007.spc",
+      "texture": "chara_image_007",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-008.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_008.spc",
+      "texture": "chara_image_008",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-009.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_009.spc",
+      "texture": "chara_image_009",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-010.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_010.spc",
+      "texture": "chara_image_010",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-011.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_011.spc",
+      "texture": "chara_image_011",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-012.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_012.spc",
+      "texture": "chara_image_012",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-013.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_013.spc",
+      "texture": "chara_image_013",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-014.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_014.spc",
+      "texture": "chara_image_014",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/portrait-015.webp",
+      "archive": "partition_data_win.cpk",
+      "entry": "flash/common/program/tsusinbo_chara/chara_image_015.spc",
+      "texture": "chara_image_015",
+      "role": "portrait",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/bg_000_DXT1.webp",
+      "entry": "flash/techou/techou_type_001_CN.spc",
+      "texture": "bg_000_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/icon_present_DXT1.webp",
+      "entry": "flash/techou/techou_type_001_CN.spc",
+      "texture": "icon_present_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/icon_tsusinbo_DXT1.webp",
+      "entry": "flash/techou/techou_type_001_CN.spc",
+      "texture": "icon_tsusinbo_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/icon_system_DXT1.webp",
+      "entry": "flash/techou/techou_type_001_CN.spc",
+      "texture": "icon_system_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/icon_kousoku_DXT1.webp",
+      "entry": "flash/techou/techou_type_001_CN.spc",
+      "texture": "icon_kousoku_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/parts_monokuma.webp",
+      "entry": "flash/techou/techou_type_001_CN.spc",
+      "texture": "parts_monokuma",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/setumei_base_000.webp",
+      "entry": "flash/techou/techou_type_001_CN.spc",
+      "texture": "setumei_base_000",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/bg_ef_pink_000_down_DXT1.webp",
+      "entry": "flash/techou/techou_type_001_CN.spc",
+      "texture": "bg_ef_pink_000_down_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/bg_ef_pink_000_up_DXT1.webp",
+      "entry": "flash/techou/techou_type_001_CN.spc",
+      "texture": "bg_ef_pink_000_up_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/bg_ef_green_000_up_DXT1.webp",
+      "entry": "flash/techou/techou_type_001_CN.spc",
+      "texture": "bg_ef_green_000_up_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/icon_base.webp",
+      "entry": "flash/techou/techou_top.spc",
+      "texture": "icon_base",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/category_present_base_DXT1.webp",
+      "entry": "flash/techou/techou_top.spc",
+      "texture": "category_present_base_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/category_tsusinbo_base_DXT1.webp",
+      "entry": "flash/techou/techou_top.spc",
+      "texture": "category_tsusinbo_base_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/category_rules_base_DXT1.webp",
+      "entry": "flash/techou/techou_top.spc",
+      "texture": "category_rules_base_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/category_system_base_DXT1.webp",
+      "entry": "flash/techou/techou_top.spc",
+      "texture": "category_system_base_DXT1",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/side_monopad_CN.webp",
+      "entry": "flash/techou/techou_title_CN.spc",
+      "texture": "side_monopad_CN",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/side_saishu_CN.webp",
+      "entry": "flash/techou/techou_title_CN.spc",
+      "texture": "side_saishu_CN",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/medal_icon_000.webp",
+      "entry": "flash/techou/techou_title_CN.spc",
+      "texture": "medal_icon_000",
+      "role": "native handbook preset 01",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-000.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_000",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-001.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_001",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-002.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_002",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-003.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_003",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-004.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_004",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-005.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_005",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-006.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_006",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-007.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_007",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-008.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_008",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-009.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_009",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-010.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_010",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-011.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_011",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-012.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_012",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-013.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_013",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-014.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_014",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/characters/silhouette-015.webp",
+      "entry": "flash/techou/techou_tsusinbo_chara_kirikae.spc",
+      "texture": "kirikae_chara_015",
+      "role": "native silhouette",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "method": "Read-only extraction from installed Steam game, lossless WebP; preset 01."
+    },
+    {
+      "path": "assets/v3/ui/icon_save_color_DXT1.webp",
+      "entry": "techou_system_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native V3 UI"
+    },
+    {
+      "path": "assets/v3/ui/icon_backlog_color_DXT1.webp",
+      "entry": "techou_system_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native V3 UI"
+    },
+    {
+      "path": "assets/v3/ui/name_kazari_000.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native V3 UI"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_000_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_001_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_002_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_003_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_004_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_005_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_006_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_007_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_008_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_009_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_010_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_011_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_012_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_013_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_014_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/characters/name_tx_015_CN.webp",
+      "entry": "techou_tsusinbo_chara_CN.spc",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "native Chinese profile name artwork"
+    },
+    {
+      "path": "assets/v3/ui/icon_save_white_DXT1.webp",
+      "entry": "techou_system_CN.spc",
+      "texture": "icon_save_white_DXT1",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Native V3 system arrow, paired with the disc texture"
+    },
+    {
+      "path": "assets/v3/ui/icon_option_color_DXT1.webp",
+      "entry": "techou_system_CN.spc",
+      "texture": "icon_option_color_DXT1",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Native system icon layer"
+    },
+    {
+      "path": "assets/v3/ui/icon_option_white_DXT1.webp",
+      "entry": "techou_system_CN.spc",
+      "texture": "icon_option_white_DXT1",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Native system icon layer"
+    },
+    {
+      "path": "assets/v3/ui/icon_backlog_white_DXT1.webp",
+      "entry": "techou_system_CN.spc",
+      "texture": "icon_backlog_white_DXT1",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Native system icon layer"
+    },
+    {
+      "path": "assets/v3/ui/title_tx_present_CN.webp",
+      "entry": "techou_type_001_CN.spc",
+      "texture": "title_tx_present_CN",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Original preset 01 Chinese banner title"
+    },
+    {
+      "path": "assets/v3/ui/title_tx_tsusinbo_CN.webp",
+      "entry": "techou_type_001_CN.spc",
+      "texture": "title_tx_tsusinbo_CN",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Original preset 01 Chinese banner title"
+    },
+    {
+      "path": "assets/v3/ui/title_tx_system_CN.webp",
+      "entry": "techou_type_001_CN.spc",
+      "texture": "title_tx_system_CN",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Original preset 01 Chinese banner title"
+    },
+    {
+      "path": "assets/v3/ui/category_present_point_DXT1.webp",
+      "entry": "techou_top.spc",
+      "texture": "category_present_point_DXT1",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Native menu symbol detail layer"
+    },
+    {
+      "path": "assets/v3/ui/category_rules_point_DXT1.webp",
+      "entry": "techou_top.spc",
+      "texture": "category_rules_point_DXT1",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Native menu symbol detail layer"
+    },
+    {
+      "path": "assets/v3/ui/category_system_point_DXT1.webp",
+      "entry": "techou_top.spc",
+      "texture": "category_system_point_DXT1",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Native menu symbol detail layer"
+    },
+    {
+      "path": "assets/v3/ui/category_tsusinbo_point_DXT1.webp",
+      "entry": "techou_top.spc",
+      "texture": "category_tsusinbo_point_DXT1",
+      "url": "https://www.spike-chunsoft.com/games/danganronpa-v3-killing-harmony/",
+      "role": "Native menu symbol detail layer"
+    }
+  ]
+}

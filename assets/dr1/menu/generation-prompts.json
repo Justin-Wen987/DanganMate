@@ -1,0 +1,57 @@
+{
+  "tool": "image_gen.imagegen (built-in)",
+  "date": "2026-10-27",
+  "reference": "User-provided DR1 handbook screenshot, contacts menu function preview; style reference only.",
+  "prompts": [
+    {
+      "id": "contacts",
+      "prompt": "Create ONE finished landscape 16:9 raster illustration asset for a retro Japanese mystery-game electronic student handbook website. Reference image is STYLE REFERENCE ONLY: use the small rectangular function preview at its right, not the entire UI. Output just a new standalone function-preview illustration filling the whole canvas, no surrounding UI, no titles, text, numbers, logos or characters. Consistent series art direction: centered chunky simple isometric object, warm ivory faces, black outlines and black-and-white screenprint halftone shading, slightly tilted perspective, flat mid-2000s game UI rendering, large thin near-black horizontal elliptical ring behind the object, dark blue-charcoal lower background and pale tinted light upper background, clean high-contrast silhouette. Object occupies about 55% canvas height, generous margin. NO red horizontal line, NO horizontal bar crossing the picture, NO scanning beam, NO scanlines or stripes on the background, NO neon glow, NO photorealism. Keep fine halftone dots on the object's shaded faces only. Subject: an ivory open tabbed document folder with three visible paper dividers. Orange/amber accent on the folder tabs and upper background. It represents a directory of classmates."
+    },
+    {
+      "id": "gifts",
+      "prompt": "Create ONE finished landscape 16:9 raster illustration asset for a retro Japanese mystery-game electronic student handbook website. Reference image is STYLE REFERENCE ONLY: use the small rectangular function preview at its right, not the entire UI. Output just a new standalone function-preview illustration filling the whole canvas, no surrounding UI, no titles, text, numbers, logos or characters. Consistent series art direction: centered chunky simple isometric object, warm ivory faces, black outlines and black-and-white screenprint halftone shading, slightly tilted perspective, flat mid-2000s game UI rendering, large thin near-black horizontal elliptical ring behind the object, dark blue-charcoal lower background and pale tinted light upper background, clean high-contrast silhouette. Object occupies about 55% canvas height, generous margin. NO red horizontal line, NO horizontal bar crossing the picture, NO scanning beam, NO scanlines or stripes on the background, NO neon glow, NO photorealism. Keep fine halftone dots on the object's shaded faces only. Subject: one neatly wrapped ivory cubical gift box with a broad charcoal ribbon and large elegant bow. Golden yellow accent on the gift box and upper background. It represents a gift encyclopedia."
+    },
+    {
+      "id": "bag",
+      "prompt": "Create ONE finished landscape 16:9 raster illustration asset for a retro Japanese mystery-game electronic student handbook website. Reference image is STYLE REFERENCE ONLY: use the small rectangular function preview at its right, not the entire UI. Output just a new standalone function-preview illustration filling the whole canvas, no surrounding UI, no titles, text, numbers, logos or characters. Consistent series art direction: centered chunky simple isometric object, warm ivory faces, black outlines and black-and-white screenprint halftone shading, slightly tilted perspective, flat mid-2000s game UI rendering, large thin near-black horizontal elliptical ring behind the object, dark blue-charcoal lower background and pale tinted light upper background, clean high-contrast silhouette. Object occupies about 55% canvas height, generous margin. NO red horizontal line, NO horizontal bar crossing the picture, NO scanning beam, NO scanlines or stripes on the background, NO neon glow, NO photorealism. Keep fine halftone dots on the object's shaded faces only. Subject: a compact structured ivory school backpack with a clear front pocket, curved top handle, two shoulder straps just visible at sides, charcoal clasps and base. Golden yellow accent on the backpack pocket flap and upper background. Its unmistakable backpack silhouette must be distinct from the gift box. It represents the player's inventory."
+    },
+    {
+      "id": "guide",
+      "prompt": "Create ONE finished landscape 16:9 raster illustration asset for a retro Japanese mystery-game electronic student handbook website. Reference image is STYLE REFERENCE ONLY: use the small rectangular function preview at its right, not the entire UI. Output just a new standalone function-preview illustration filling the whole canvas, no surrounding UI, no titles, text, numbers, logos or characters. Consistent series art direction: centered chunky simple isometric object, warm ivory faces, black outlines and black-and-white screenprint halftone shading, slightly tilted perspective, flat mid-2000s game UI rendering, large thin near-black horizontal elliptical ring behind the object, dark blue-charcoal lower background and pale tinted light upper background, clean high-contrast silhouette. Object occupies about 55% canvas height, generous margin. NO red horizontal line, NO horizontal bar crossing the picture, NO scanning beam, NO scanlines or stripes on the background, NO neon glow, NO photorealism. Keep fine halftone dots on the object's shaded faces only. Subject: an ivory thick closed strategy handbook in three-quarter view with a green hardcover and a small bookmark ribbon, black halftone page-edge shading. Fresh green upper background. It represents a game walkthrough. No writing on its cover."
+    },
+    {
+      "id": "system",
+      "prompt": "Create ONE finished landscape 16:9 raster illustration asset for a retro Japanese mystery-game electronic student handbook website. Reference image is STYLE REFERENCE ONLY: use the small rectangular function preview at its right, not the entire UI. Output just a new standalone function-preview illustration filling the whole canvas, no surrounding UI, no titles, text, numbers, logos or characters. Consistent series art direction: centered chunky simple isometric object, warm ivory faces, black outlines and black-and-white screenprint halftone shading, slightly tilted perspective, flat mid-2000s game UI rendering, large thin near-black horizontal elliptical ring behind the object, dark blue-charcoal lower background and pale tinted light upper background, clean high-contrast silhouette. Object occupies about 55% canvas height, generous margin. NO red horizontal line, NO horizontal bar crossing the picture, NO scanning beam, NO scanlines or stripes on the background, NO neon glow, NO photorealism. Keep fine halftone dots on the object's shaded faces only. Subject: a chunky ivory rectangular memory card in three-quarter view with a small blue panel and a row of gold contact pins at its bottom edge, black halftone side shading. Cyan-blue upper background. It represents local saved data and backups."
+    },
+    {
+      "id": "bag-v3-purple",
+      "date": "2026-10-30",
+      "reference": "assets/dr1/menu/bag-v2.webp",
+      "prompt": "Preserve backpack composition, ivory canvas, black buckles, outlines and halftone; replace golden-yellow flap and trim with lavender violet #C7A0F1 / #7951B3, and upper background yellow with pale lavender; retain blue-charcoal lower background and near-black elliptical ring. No new elements, characters, text or scanning line.",
+      "output": "assets/dr1/menu/bag-v3-purple.png",
+      "web_asset": "assets/dr1/menu/bag-v3-purple.webp"
+    }
+  ],
+  "files": [
+    {
+      "id": "contacts",
+      "target": "assets/dr1/menu/contacts-v2.png"
+    },
+    {
+      "id": "gifts",
+      "target": "assets/dr1/menu/gifts-v2.png"
+    },
+    {
+      "id": "bag",
+      "target": "assets/dr1/menu/bag-v2.png"
+    },
+    {
+      "id": "guide",
+      "target": "assets/dr1/menu/guide-v2.png"
+    },
+    {
+      "id": "system",
+      "target": "assets/dr1/menu/system-v2.png"
+    }
+  ]
+}

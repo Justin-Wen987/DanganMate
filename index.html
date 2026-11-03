@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#253b49">
+  <meta name="description" content="弹丸论破攻略、角色礼物偏好与本地存档读取。免费使用，记录保存在你的浏览器。">
+  <title>DanganMate 弹丸手册</title>
+  <link rel="icon" href="assets/dr1/hope-peak-crest.webp" type="image/webp">
+  <link rel="stylesheet" href="src/style.css">
+  <link rel="stylesheet" href="src/dr2/style.css">
+  <link rel="stylesheet" href="src/v3/style.css">
+  <link rel="stylesheet" href="src/interactions.css">
+  <link rel="stylesheet" href="src/mobile.css">
+</head>
+<body>
+  <a class="skip" href="#content">跳到手册内容</a>
+  <div class="app-shell">
+    <div class="utility"><a href="#home" class="wordmark">DanganMate <span>弹丸手册</span></a><div class="utility-actions"><label class="language-picker"><span>语言</span><select id="language-select" data-language-options aria-label="语言"><option value="zh-CN">简体中文</option><option value="en">English</option><option value="ja">日本語</option></select></label><button id="switch-game" class="quiet">切换作品</button></div></div>
+    <main class="handbook" id="handbook">
+      <header class="header"><h1 id="heading" tabindex="-1">作品选择</h1><span class="header-line" aria-hidden="true"></span><div class="academy"><b>KIBOUGAMINE GAKUEN</b><span>电子学生手册</span></div><img class="crest" src="assets/dr1/hope-peak-crest.webp" width="720" height="720" alt=""></header>
+      <nav class="navigation" id="navigation" aria-label="手册栏目"></nav>
+      <div class="watermark" aria-hidden="true"><img src="assets/dr1/hope-peak-crest.webp" width="720" height="720" alt=""></div>
+      <div id="content" class="content" tabindex="-1"><p>正在打开手册…</p></div>
+      <footer class="book-footer"><button id="back" class="back" aria-label="返回上一页" aria-keyshortcuts="Escape"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 5-7 7 7 7M7 12h14"/></svg>返回</button><span id="storage-status">记录保存在此浏览器</span><span>DR1 · v0.1</span></footer>
+    </main>
+    <footer class="site-footer"><span>《弹丸论破》玩家工具 · 非官方项目</span><a href="#about">资料与素材来源</a><span>本地运行 · 免费使用</span></footer>
+  </div>
+  <dialog id="dialog" aria-labelledby="dialog-title" aria-describedby="dialog-body"><h2 id="dialog-title"></h2><div id="dialog-body"></div><div id="dialog-actions" class="actions"></div></dialog>
+  <dialog id="mobile-menu" aria-labelledby="mobile-menu-title"><div class="mobile-menu-heading"><h2 id="mobile-menu-title">手册菜单</h2><button type="button" class="quiet" id="close-mobile-menu">关闭菜单</button></div><nav id="mobile-navigation" aria-label="手册栏目"></nav><div id="mobile-settings"></div></dialog>
+  <div class="toast" id="toast" role="status" hidden></div>
+  <noscript>请启用 JavaScript，以使用本地背包和存档读取功能。</noscript>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>
+

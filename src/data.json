@@ -1,0 +1,1799 @@
+{
+  "gifts": [
+    {
+      "id": 1,
+      "name": "矿泉水",
+      "ja": "ミネラルウォーター",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "可乐",
+      "ja": "コラコーラ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "猫屎咖啡",
+      "ja": "ルアックコーヒー",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "玫瑰果茶",
+      "ja": "ローズヒップティー",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "盐",
+      "ja": "塩",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "油炸薯片",
+      "ja": "油芋",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "彩虹干粮",
+      "ja": "虹色の乾パン",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "漆黑可颂",
+      "ja": "マックロワッサン",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "极速杯面",
+      "ja": "最速カップラーメン",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "华丽王子咖喱",
+      "ja": "華麗な王子さま",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "军用口粮",
+      "ja": "レーション",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "甜甜圈泳圈",
+      "ja": "浮き輪ドーナツ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "满满的便当",
+      "ja": "これくらいのお弁当",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "葵花籽",
+      "ja": "ひまわりの種",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "鸟食",
+      "ja": "バードライス",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "小猫发夹",
+      "ja": "子猫のヘアピン",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "永恒手链",
+      "ja": "永遠のミサンガ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "恋爱戒指",
+      "ja": "色恋沙汰リング",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "鹤龟钻石",
+      "ja": "ツルカメダイヤモンド",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "希望之峰戒指",
+      "ja": "希望ヶ峰の指輪",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "蓝莓香水",
+      "ja": "ブルベリの香水",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "圣甲虫胸针",
+      "ja": "スカラベのブローチ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "武神护身符",
+      "ja": "武神のお守り",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "明日拳套",
+      "ja": "あしたのグローブ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "额头眼镜",
+      "ja": "おでこのメガネ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "G-SICK 手表",
+      "ja": "G-SICK",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "滚轮拖鞋",
+      "ja": "ローラースリッパ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "红围巾",
+      "ja": "赤いマフラー",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "树叶兜裆布",
+      "ja": "はっぱふんどし",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "特鲁猫内裤",
+      "ja": "トル猫のドロワーズ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "白兔耳罩",
+      "ja": "白うさぎの耳あて",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "全新裹胸布",
+      "ja": "新品のサラシ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "宍户康 T 恤",
+      "ja": "ヤス・シシドのTシャツ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "支配者丁字裤",
+      "ja": "支配者のTバック",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "手形胸罩",
+      "ja": "手ブラ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "水之恋",
+      "ja": "ウォーターラバー",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "麻糬公主手办",
+      "ja": "もちプリのフィギュア",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "收音机君人偶",
+      "ja": "ラジオくん人形",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "剪发剪刀",
+      "ja": "カットバサミ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "打薄剪刀",
+      "ja": "すきバサミ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "高级龙猫毛座垫",
+      "ja": "高級チンチラシート",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "克里安相机",
+      "ja": "キルリアンカメラ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "珍藏反应艺集",
+      "ja": "愛蔵リアクション芸集",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "风滚草",
+      "ja": "タンブル・ウィード",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "无限蒲公英",
+      "ja": "無限タンポポ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "试管玫瑰",
+      "ja": "イン・ビトロ・ローズ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "樱花花束",
+      "ja": "桜の花束",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "玫瑰鞭",
+      "ja": "薔薇の鞭",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "斩铁剑",
+      "ja": "残鉄剣",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "村正",
+      "ja": "むらまさ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "光线枪兹利昂",
+      "ja": "光線銃ズリオン",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "黄金枪",
+      "ja": "黄金銃",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "狂战士铠甲",
+      "ja": "狂戦士の鎧",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "自毁录音带",
+      "ja": "自動消滅カセットテープ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "无声电话",
+      "ja": "無言電話",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "毛毛虫君",
+      "ja": "毛虫くん",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "昭和收音机",
+      "ja": "昭和ラジオ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "速球大臣",
+      "ja": "速球大臣",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "古董娃娃",
+      "ja": "アンティークドール",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "水晶骷髅",
+      "ja": "水晶のドクロ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "黄金航天飞机",
+      "ja": "黄金のスペースシャトル",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "圣德太子地球仪",
+      "ja": "聖徳太子の地球儀",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "月之石",
+      "ja": "月の石",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "阿修罗之泪",
+      "ja": "阿修羅の涙",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "肩胛锁的奥义",
+      "ja": "オモプラッタの極意",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "千禧年数学难题",
+      "ja": "ミレニアム懸賞問題",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "掌上游戏机",
+      "ja": "携帯ゲーム機",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "僵尸计划",
+      "ja": "プロジェクトゾンビ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "异教舞者",
+      "ja": "ペーガンダンス",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "超技林",
+      "ja": "超技林",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "少女旅行包",
+      "ja": "乙女キャリーバッグ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "会动的木芥子",
+      "ja": "動くこけし",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "第二颗纽扣",
+      "ja": "第二ボタン",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "某人的毕业相册",
+      "ja": "誰かの卒業アルバム",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "台钳",
+      "ja": "万力",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "玉串",
+      "ja": "玉串",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "浮石",
+      "ja": "軽石",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "糯米纸",
+      "ja": "オブラート",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "水笛",
+      "ja": "水笛",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "波乔波人偶",
+      "ja": "ボージョボー人形",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "缩小灯",
+      "ja": "スモールライト",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "变声蝴蝶结",
+      "ja": "蝶ネクタイの変声機",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "古代旅行券",
+      "ja": "古代ツアーチケット",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "文豪钢笔",
+      "ja": "文豪の万年筆",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "如果传真机",
+      "ja": "もしもFAX",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "猫狗杂志",
+      "ja": "キャットドッグプレス",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "陨石之箭",
+      "ja": "隕石の矢",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "下巴钻头",
+      "ja": "アゴドリル",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "绿色玩偶服",
+      "ja": "みどりの着ぐるみ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "红色玩偶服",
+      "ja": "あかの着ぐるみ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "男人的浪漫",
+      "ja": "男のロマン",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "逃脱按钮",
+      "ja": "脱出スイッチ",
+      "category": "扭蛋礼物",
+      "giftable": true,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "校徽",
+      "ja": "校章バッジ",
+      "category": "章节纪念",
+      "giftable": false,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "绝望球棒",
+      "ja": "絶望バット",
+      "category": "章节纪念",
+      "giftable": false,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "暮威慈畏大亚纹土",
+      "ja": "暮威慈畏大亜紋土",
+      "category": "章节纪念",
+      "giftable": false,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "超合金正义机器人",
+      "ja": "超合金ジャスティスロボ",
+      "category": "章节纪念",
+      "giftable": false,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Alter 球",
+      "ja": "アルターボール",
+      "category": "章节纪念",
+      "giftable": false,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "梦之岛火箭",
+      "ja": "夢の島ロケット",
+      "category": "章节纪念",
+      "giftable": false,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "黑白熊发圈",
+      "ja": "モノクマのヘアゴム",
+      "category": "章节纪念",
+      "giftable": false,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "复活节彩蛋",
+      "ja": "イースター・エッグ",
+      "category": "章节纪念",
+      "giftable": false,
+      "source": [
+        "presents",
+        "altema"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "石丸清多夏的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "taka",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "十神白夜的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "byakuya",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "大和田纹土的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "mondo",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "桑田怜恩的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "leon",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "山田一二三的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "hifumi",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "叶隐康比吕的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "hiro",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "舞园沙耶香的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "sayaka",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "雾切响子的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "kyoko",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "朝日奈葵的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "aoi",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "腐川冬子的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "toko",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "大神樱的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "sakura",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "塞蕾丝缇雅的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "celeste",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "江之岛盾子的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "junko",
+      "source": [
+        "presents"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "不二咲千寻的内衣",
+      "ja": "",
+      "category": "学院模式纪念",
+      "giftable": false,
+      "owner": "chihiro",
+      "source": [
+        "presents"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "makoto",
+      "no": 1,
+      "name": "苗木诚",
+      "en": "Makoto Naegi",
+      "talent": "幸运",
+      "portrait": "assets/dr1/Makoto_Naegi.webp",
+      "pixel": "assets/dr1/Makoto-pixel-original.webp",
+      "love": [],
+      "like": [],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 254,
+      "portraitHeight": 374,
+      "pixelWidth": 63,
+      "pixelHeight": 96
+    },
+    {
+      "id": "taka",
+      "no": 2,
+      "name": "石丸清多夏",
+      "en": "Kiyotaka Ishimaru",
+      "talent": "风纪委员",
+      "portrait": "assets/dr1/Kiyotaka_Ishimaru.webp",
+      "pixel": "assets/dr1/Taka-pixel.webp",
+      "love": [
+        24,
+        28,
+        43,
+        88
+      ],
+      "like": [
+        13,
+        20,
+        26,
+        29,
+        41,
+        47,
+        53,
+        66,
+        67
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 367,
+      "portraitHeight": 560,
+      "pixelWidth": 34,
+      "pixelHeight": 34
+    },
+    {
+      "id": "byakuya",
+      "no": 3,
+      "name": "十神白夜",
+      "en": "Byakuya Togami",
+      "talent": "贵公子",
+      "portrait": "assets/dr1/Byakuya_Togami.webp",
+      "pixel": "assets/dr1/Byakuya-pixel.webp",
+      "love": [
+        3,
+        22,
+        52,
+        57,
+        60,
+        61,
+        62,
+        66
+      ],
+      "like": [
+        4,
+        10,
+        17,
+        20,
+        21,
+        34,
+        41,
+        46,
+        47,
+        59,
+        67,
+        69,
+        87
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 351,
+      "portraitHeight": 560,
+      "pixelWidth": 44,
+      "pixelHeight": 32
+    },
+    {
+      "id": "mondo",
+      "no": 4,
+      "name": "大和田纹土",
+      "en": "Mondo Owada",
+      "talent": "暴走族",
+      "portrait": "assets/dr1/Mondo_Owada.webp",
+      "pixel": "assets/dr1/Mondo-pixel.webp",
+      "love": [
+        9,
+        27,
+        32,
+        41
+      ],
+      "like": [
+        3,
+        17,
+        20,
+        23,
+        28,
+        33,
+        47,
+        50,
+        67
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 523,
+      "portraitHeight": 551,
+      "pixelWidth": 34,
+      "pixelHeight": 36
+    },
+    {
+      "id": "leon",
+      "no": 5,
+      "name": "桑田怜恩",
+      "en": "Leon Kuwata",
+      "talent": "棒球选手",
+      "portrait": "assets/dr1/Leon_Kuwata.webp",
+      "pixel": "assets/dr1/Leon-pixel.webp",
+      "love": [
+        17,
+        21,
+        33,
+        68
+      ],
+      "like": [
+        2,
+        9,
+        19,
+        20,
+        26,
+        27,
+        47,
+        67,
+        81,
+        82
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 444,
+      "portraitHeight": 560,
+      "pixelWidth": 42,
+      "pixelHeight": 40
+    },
+    {
+      "id": "hifumi",
+      "no": 6,
+      "name": "山田一二三",
+      "en": "Hifumi Yamada",
+      "talent": "同人作家",
+      "portrait": "assets/dr1/Hifumi_Yamada.webp",
+      "pixel": "assets/dr1/Hifumi-pixel.webp",
+      "love": [
+        2,
+        6,
+        37,
+        45,
+        70
+      ],
+      "like": [
+        7,
+        8,
+        20,
+        38,
+        47,
+        59,
+        67,
+        88
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 787,
+      "portraitHeight": 519,
+      "pixelWidth": 38,
+      "pixelHeight": 32
+    },
+    {
+      "id": "hiro",
+      "no": 7,
+      "name": "叶隐康比吕",
+      "en": "Yasuhiro Hagakure",
+      "talent": "占卜师",
+      "portrait": "assets/dr1/Yasuhiro_Hagakure.webp",
+      "pixel": "assets/dr1/Hiro-pixel.webp",
+      "love": [
+        60,
+        61,
+        62,
+        76,
+        87
+      ],
+      "like": [
+        9,
+        10,
+        13,
+        20,
+        23,
+        29,
+        40,
+        42,
+        43,
+        47,
+        49,
+        50,
+        55,
+        67
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 604,
+      "portraitHeight": 560,
+      "pixelWidth": 58,
+      "pixelHeight": 40
+    },
+    {
+      "id": "sayaka",
+      "no": 8,
+      "name": "舞园沙耶香",
+      "en": "Sayaka Maizono",
+      "talent": "偶像",
+      "portrait": "assets/dr1/Sayaka_Maizono.webp",
+      "pixel": "assets/dr1/Sayaka-pixel.webp",
+      "love": [
+        16,
+        17,
+        18,
+        46,
+        47
+      ],
+      "like": [
+        4,
+        20,
+        21,
+        22,
+        30,
+        31,
+        59,
+        67
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 288,
+      "portraitHeight": 522,
+      "pixelWidth": 34,
+      "pixelHeight": 34
+    },
+    {
+      "id": "kyoko",
+      "no": 9,
+      "name": "雾切响子",
+      "en": "Kyoko Kirigiri",
+      "talent": "???",
+      "portrait": "assets/dr1/Kyoko_Kirigiri.webp",
+      "pixel": "assets/dr1/Kyoko-pixel.webp",
+      "love": [
+        3,
+        21,
+        46,
+        47,
+        80
+      ],
+      "like": [
+        20,
+        25,
+        52,
+        54,
+        59,
+        67,
+        82,
+        87
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 510,
+      "portraitHeight": 525,
+      "pixelWidth": 44,
+      "pixelHeight": 38
+    },
+    {
+      "id": "aoi",
+      "no": 10,
+      "name": "朝日奈葵",
+      "en": "Aoi Asahina",
+      "talent": "游泳选手",
+      "portrait": "assets/dr1/Aoi_Asahina.webp",
+      "pixel": "assets/dr1/Aoi-pixel.webp",
+      "love": [
+        12,
+        16,
+        26,
+        36,
+        38
+      ],
+      "like": [
+        20,
+        23,
+        28,
+        31,
+        46,
+        47,
+        65,
+        67,
+        80,
+        89,
+        90
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 299,
+      "portraitHeight": 560,
+      "pixelWidth": 34,
+      "pixelHeight": 46
+    },
+    {
+      "id": "toko",
+      "no": 11,
+      "name": "腐川冬子",
+      "en": "Toko Fukawa",
+      "talent": "文学少女",
+      "portrait": "assets/dr1/Toko-hd-01.webp",
+      "pixel": "assets/dr1/Toko-pixel.webp",
+      "love": [
+        17,
+        25,
+        46,
+        47,
+        59,
+        71,
+        84
+      ],
+      "like": [
+        4,
+        18,
+        19,
+        20,
+        22,
+        67,
+        79
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 326,
+      "portraitHeight": 534,
+      "pixelWidth": 48,
+      "pixelHeight": 44
+    },
+    {
+      "id": "sakura",
+      "no": 12,
+      "name": "大神樱",
+      "en": "Sakura Ogami",
+      "talent": "格斗家",
+      "portrait": "assets/dr1/Sakura_Ogami.webp",
+      "pixel": "assets/dr1/Sakura-pixel.webp",
+      "love": [
+        23,
+        32,
+        46,
+        64,
+        65
+      ],
+      "like": [
+        12,
+        16,
+        18,
+        20,
+        21,
+        24,
+        30,
+        31,
+        36,
+        47,
+        59,
+        67
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 878,
+      "portraitHeight": 560,
+      "pixelWidth": 58,
+      "pixelHeight": 40
+    },
+    {
+      "id": "celeste",
+      "no": 13,
+      "name": "塞蕾丝缇雅",
+      "en": "Celestia Ludenberg",
+      "talent": "赌徒",
+      "portrait": "assets/dr1/Celestia_Ludenberg.webp",
+      "pixel": "assets/dr1/Celeste-pixel.webp",
+      "love": [
+        4,
+        18,
+        19,
+        48,
+        59
+      ],
+      "like": [
+        17,
+        20,
+        21,
+        22,
+        45,
+        46,
+        47,
+        67,
+        68,
+        69
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 611,
+      "portraitHeight": 555,
+      "pixelWidth": 58,
+      "pixelHeight": 48
+    },
+    {
+      "id": "junko",
+      "no": 14,
+      "name": "江之岛盾子",
+      "en": "Junko Enoshima",
+      "talent": "时尚辣妹",
+      "portrait": "assets/dr1/Junko_Enoshima.webp",
+      "pixel": "assets/dr1/Junko-pixel.webp",
+      "love": [
+        11,
+        16,
+        46,
+        61
+      ],
+      "like": [
+        1,
+        13,
+        20,
+        23,
+        34,
+        35,
+        47,
+        48,
+        49,
+        50,
+        51,
+        67,
+        90
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 548,
+      "portraitHeight": 560,
+      "pixelWidth": 58,
+      "pixelHeight": 44
+    },
+    {
+      "id": "chihiro",
+      "no": 15,
+      "name": "不二咲千寻",
+      "en": "Chihiro Fujisaki",
+      "talent": "程序员",
+      "portrait": "assets/dr1/Chihiro_Fujisaki.webp",
+      "pixel": "assets/dr1/Chihiro-pixel.webp",
+      "love": [
+        21,
+        42,
+        45,
+        70
+      ],
+      "like": [
+        7,
+        11,
+        12,
+        15,
+        20,
+        24,
+        26,
+        27,
+        29,
+        33,
+        34,
+        38,
+        46,
+        47,
+        51,
+        56,
+        58,
+        62,
+        66,
+        67,
+        68,
+        69,
+        89,
+        90
+      ],
+      "source": [
+        "prefs",
+        "altema"
+      ],
+      "portraitWidth": 294,
+      "portraitHeight": 544,
+      "pixelWidth": 46,
+      "pixelHeight": 36
+    }
+  ]
+}

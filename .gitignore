@@ -1,0 +1,40 @@
+.cache/
+node_modules/
+output/
+dist/
+.playwright-cli/
+.impeccable/review/
+*.vfs
+*.vfs.bak
+SAVE-DATA*.dat
+design/handbook-v2/edge-*-profile/
+design/handbook-v2/edge-profile-*/
+
+# Local development and authorization artifacts
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+.impeccable/
+design/
+
+# Generated mini-program preview and SDK agent metadata
+heybox/public/
+heybox/index.html
+heybox/.agents/
+heybox/.hb-sdk/
+heybox/skills-lock.json
+
+# Local project notes; keep outside the repository
+docs/
+DESIGN.md
+PRODUCT.md
+heybox/README.md
+
+# Local mini-program project, investigation tools and asset metadata
+heybox/
+tools/heybox.test.mjs
+tools/inspect_dr1_save.py
+assets/**/*.webp.json
+assets/dr1/menu/*.png

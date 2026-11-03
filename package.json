@@ -1,0 +1,7 @@
+{
+  "name": "danganmate",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev": "node tools/serve.mjs", "build": "node tools/build.mjs", "check": "node --test tools/core.test.mjs tools/i18n.test.mjs tools/dr2.test.mjs tools/v3.test.mjs"}
+}

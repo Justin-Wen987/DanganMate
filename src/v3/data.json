@@ -1,0 +1,3600 @@
+{
+  "gifts": [
+    {
+      "id": 1,
+      "name": "乌龙茶",
+      "en": "Oolong Tea",
+      "ja": "ウーロン茶",
+      "description": "让茶叶半发酵制成的一种中国茶。发酵程度不同,味道和香气也会改变。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/001.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 2,
+      "name": "珍珠果汁",
+      "en": "Boba Tea",
+      "ja": "タピオカジュース",
+      "description": "加入大量珍珠的热门饮料。特征是富有嚼劲的珍珠,是由木薯的根茎部制成。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/002.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 3,
+      "name": "姜茶",
+      "en": "Ginger Tea",
+      "ja": "しょうが湯",
+      "description": "加入姜末的热饮。喝了能让身体暖和起来,还能预防感冒,添加蜂蜜会更美味。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/003.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 4,
+      "name": "克利奥帕特拉的珍珠",
+      "en": "Cleopatra's Pearl Cocktail",
+      "ja": "クレオパトラの真珠",
+      "description": "据说克利奥帕特拉曾在某场晚宴中,将珍珠耳环融进红酒醋里喝下。这便是以此逸事命名的红酒醋饮料。特征是彷佛真珠般鲜艳的色彩,似乎有优秀的美容效果。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/004.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 5,
+      "name": "不死酒FREE",
+      "en": "Non-Alcoholic Drink of Immortality",
+      "ja": "不死の酒フリー",
+      "description": "以喝下就能永保青春、获得永生的酒为原型设计的无酒精饮料。是可以轻松饮用的罐装类型。喝了不能永保青春、获得永生,也没有特别好喝。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/005.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 6,
+      "name": "西红柿酱",
+      "en": "Ketchup",
+      "ja": "ケチャップ",
+      "description": "女仆用来在蛋包饭上写字的专用文具。也能当成调味料。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/006.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 7,
+      "name": "砂糖",
+      "en": "Sugar",
+      "ja": "砂糖",
+      "description": "主成分是蔗糖的基本调味料。小心不能摄取过量。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/007.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 8,
+      "name": "橄榄油",
+      "en": "Olive Oil",
+      "ja": "オリーブオイル",
+      "description": "从橄榄树的果实榨出的植物油。用帅气的姿势倒进锅里,可以有效率地烹调。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/008.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 9,
+      "name": "太空蛋糕",
+      "en": "Astro Cake",
+      "ja": "アストロケーキ",
+      "description": "卖给一般太空迷的太空食品风蛋糕。蔬菜口味,富含营养。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/009.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 10,
+      "name": "气球炸弹泡泡糖",
+      "en": "Bubble Bomb Gum",
+      "ja": "風船爆弾ガム",
+      "description": "吹到最大时会破掉并发出爆炸声的泡泡糖。因为爆炸声非常响亮,心脏很弱的人不能吃。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/010.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 11,
+      "name": "枫糖法奇",
+      "en": "Maple Fudge",
+      "ja": "メープルファッジ",
+      "description": "在熬煮砂糖、炼乳和奶油制成的英国糖果“法吉软糖”时,额外加入枫糖浆的产品。味道极甜。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/011.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 12,
+      "name": "脱水酸奶",
+      "en": "Greek Yogurt",
+      "ja": "水切りヨーグルト",
+      "description": "沥干水分的原味酸奶。浓厚的味道很受欢迎,可以使用在各式各样的料理上。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/012.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 13,
+      "name": "兔子苹果",
+      "en": "Bunny Apples",
+      "ja": "うさぎりんご",
+      "description": "切成兔子造型的苹果。也常当作一部分动物或虫的饲料。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/013.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 14,
+      "name": "超硬冰淇淋",
+      "en": "Rock Hard Ice Cream",
+      "ja": "ガチカチアイス",
+      "description": "以“绝不溶化”为主旨制作的硬梆梆杯装冰淇淋。在盛夏时长时间带着走也没问题。但因为实在太硬,如果不加热就无法用勺子挖起来。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/014.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 15,
+      "name": "寿喜烧牛奶糖",
+      "en": "Sukiyaki Caramel",
+      "ja": "すき焼きキャラメル",
+      "description": "寿喜烧的酱油味和肉的味道,以及鸡蛋和浓郁牛奶糖的两种甜味,完全没有互相混合,坚持凸显自我的牛奶糖。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/015.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 16,
+      "name": "薄荷香烟糖",
+      "en": "Candy Cigarette",
+      "ja": "ハッカシガレット",
+      "description": "外型像香烟的汽水糖。很受正值喜欢模仿大人年纪的孩子们欢迎。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/016.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 17,
+      "name": "像某人脸的饺子",
+      "en": "Gyoza In the Shape of a Face",
+      "ja": "誰かの顔の餃子",
+      "description": "模仿好像在哪里看过的人的长相制作的圆形饺子。饺皮厚实,富有嚼劲。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/017.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 18,
+      "name": "银耳环",
+      "en": "Silver Earring",
+      "ja": "シルバーピアス",
+      "description": "适合每个人的简约耳环。替自己低调地添上一分时髦。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/018.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 19,
+      "name": "水晶手镯",
+      "en": "Crystal Bangle",
+      "ja": "クリスタルバングル",
+      "description": "大量使用水晶玻璃制成的手镯。发出闪闪光辉,相当引人注目。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/019.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 20,
+      "name": "条纹领带",
+      "en": "Striped Necktie",
+      "ja": "ストライプのネクタイ",
+      "description": "男女通用的实用领带。有1条会很方便。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/020.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 21,
+      "name": "五花大绑靴",
+      "en": "Bondage Boots",
+      "ja": "がんじがらめブーツ",
+      "description": "用铁链装饰鞋带部分,超高筒超高跟的女王陛下风亮面皮靴。可能不是人人都适合穿,但也能当作摆饰或伞筒。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/021.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 22,
+      "name": "才囚学园的手环",
+      "en": "Ultimate Academy Bracelet",
+      "ja": "才囚学園の腕輪",
+      "description": "刻着才囚学园校徽,以手铐为主题制作的手环。是在绝望中生死与共的伙伴们间的友情证明。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/022.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 23,
+      "name": "运动衣",
+      "en": "Workout Clothes",
+      "ja": "トレーニングウェア",
+      "description": "吸水性和速干性都很优秀,穿起来活动方便的运动衣。只要穿着它,长时间运动也能保持舒适。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/023.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 24,
+      "name": "黑白甚平",
+      "en": "Mono-Jinbei",
+      "ja": "モノ甚平",
+      "description": "黑白熊风的黑白双色甚平,轻巧且方便活动。因为非常透气,最适合在炎炎夏日穿上。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/024.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 25,
+      "name": "秋色披肩",
+      "en": "Autumn-Colored Scarf",
+      "ja": "秋色ストール",
+      "description": "不论是男女机器人都能使用的高雅秋色围巾。能当成增添时髦的配件。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/025.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 26,
+      "name": "手织毛衣",
+      "en": "Hand-Knit Sweater",
+      "ja": "手編みのセーター",
+      "description": "某个人为了自己的意中人用心编织的毛衣。穿上就能被沉重的爱保护,光靠这1件就不用担心寒冬。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/026.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 27,
+      "name": "应援团长的长外套",
+      "en": "Cheer Coat Uniform",
+      "ja": "応援団長コート",
+      "description": "长版中山装风长大衣,红色里子给人热情的印象。有防寒功能,穿上就会感受到热情的温暖。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/027.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 28,
+      "name": "指甲油刷",
+      "en": "Nail Brush",
+      "ja": "ネイルブラシ",
+      "description": "用来涂出美丽艺术指甲的专用刷具。无论是谁都能简单地对指尖施展魔法。要送给别人也无妨,但留在身上或许会有好事发生。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/028.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 29,
+      "name": "可穿式厚被",
+      "en": "Wearable Blanket",
+      "ja": "着込む毛布",
+      "description": "利用层层防护让身体不受寒冷侵袭,连脖子和手脚等部位都包得密不透风的防护被子。穿上后难以自由活动。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/029.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 30,
+      "name": "贝雷帽",
+      "en": "Beret",
+      "ja": "ベレー帽",
+      "description": "零码贝雷帽。多少替人增添一分艺术气息。是非常受欢迎的流行配件。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/030.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 31,
+      "name": "瓢虫胸针",
+      "en": "Ladybug Brooch",
+      "ja": "てんとう虫のブローチ",
+      "description": "七星瓢虫造型的可爱时髦胸针。并没有赋予生命。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/031.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 32,
+      "name": "袖扣",
+      "en": "Cufflinks",
+      "ja": "カフスボタン",
+      "description": "别在衬衫袖口的单一配件。男女都很容易驾驭的黑玛瑙。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/032.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 33,
+      "name": "狗牌",
+      "en": "Dog Tag",
+      "ja": "ドッグタグ",
+      "description": "为了辨识士兵个人身分的识别牌。两枚牌子上都刻着相同的个人资料,主人战死时会回收其中一片用来报告战死。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/033.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 34,
+      "name": "机器人用白胡子",
+      "en": "White Robot Mustache",
+      "ja": "ロボット用白ヒゲ",
+      "description": "机器人用的绅士胡须。没有天线的功能。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/034.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 35,
+      "name": "凶手篇章",
+      "en": "Book of the Blackened",
+      "ja": "クロの章",
+      "description": "犯罪实录书,记录人类犯下的凶杀案中最残酷、最惨无人道的事件。记载了许多轻度杀人魔迷不会知道的冷门案件,和因为上层压力而无法公开的案件。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/035.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 36,
+      "name": "哈姆的心情",
+      "en": "Feelings of Ham",
+      "ja": "はむのきもち",
+      "description": "记载仓鼠的生态和饲养方式......并非如此,而是描述食用家畜生态和饲养方式的书。是为刚对畜牧业产生兴趣的人写的。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/036.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 37,
+      "name": "桌上游记",
+      "en": "Travel Journal",
+      "ja": "机上トラベル紀行",
+      "description": "在厚重日记本中写着满满的旅游纪录。是参考实际世界地图,只靠着一知半解的知识和丰富想象力撰写而成。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/037.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 38,
+      "name": "修成正果☆咒语全集",
+      "en": "Dreams Come True ☆ Spell Book",
+      "ja": "恋が叶う☆おまじない全集",
+      "description": "搜集全国各地自古流传的咒术,并编写得让小孩也能清楚理解的作品。仔细阅读会发现内容经过严谨考证。几乎都以和恋爱有关的咒术为主题。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/038.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 39,
+      "name": "榻上故事",
+      "en": "Story of Tokono",
+      "ja": "床之物語",
+      "description": "从民间自古相传的习俗、传说和知识当中,特别挑选出和性有关的各种逸话集结成册的故事集。也具有相当高的学术价值。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/039.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 40,
+      "name": "少年清凉志",
+      "en": "Spla-Teen Vogue",
+      "ja": "スコラティーン",
+      "description": "刊载许多盛夏清凉照片的青少年杂志。不会出现乌贼和章鱼。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/040.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 41,
+      "name": "快乐动物园",
+      "en": "Fun Book of Animals",
+      "ja": "たのしいどうぶつえん",
+      "description": "为学龄前儿童画的动物绘本。不会出现熊。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/041.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 42,
+      "name": "最新零件目录",
+      "en": "Latest Machine Parts Catalog",
+      "ja": "最新パーツカタログ",
+      "description": "完整收录最新潮线材、螺丝和马达等零件的商品目录。也能当作机器人的时尚杂志来读。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/042.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 43,
+      "name": "不锈钢托盘",
+      "en": "Stainless Tray",
+      "ja": "ステンレストレイ",
+      "description": "像镜子般光滑闪亮的银色圆托盘。说到女仆的道具就让人联想到这个。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/043.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 44,
+      "name": "网球组",
+      "en": "Tennis Ball Set",
+      "ja": "テニスボールセット",
+      "description": "1套4颗的硬式网球。不只是网球,也能用来按摩或减肥。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/044.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 45,
+      "name": "高规格耳机",
+      "en": "High-End Headphones",
+      "ja": "ハイエンドヘッドホン",
+      "description": "高质量的高级专用耳机。擅长表现古典乐和爵士乐等细腻音色。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/045.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 46,
+      "name": "泰迪熊",
+      "en": "Teddy Bear",
+      "ja": "テディベア",
+      "description": "不是黑白,而是普通的熊布偶。只要好好疼爱它,或许会真的活起来。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/046.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 47,
+      "name": "牛奶拼图",
+      "en": "Milk Puzzle",
+      "ja": "ミルクパズル",
+      "description": "图案像牛奶般洁白的素色拼图。据说能训练耐力和集中力,也曾在航天员选拔考试时使用。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/047.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 48,
+      "name": "幻象魔杖",
+      "en": "Illusion Rod",
+      "ja": "マボロシロッド",
+      "description": "只要在别人面前转动它,就能让那个人看见愉快幻象的魔杖。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/048.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 49,
+      "name": "化妆镜",
+      "en": "Hand Mirror",
+      "ja": "ハンドミラー",
+      "description": "检查服装仪容时不可或缺的便携妆镜。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/049.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 50,
+      "name": "角色扮演行李箱",
+      "en": "Prop Carrying Case",
+      "ja": "レイヤーキャリーバッグ",
+      "description": "特地为角色扮演者设计的便利行李箱。角色扮演活动就不用说了,平常旅行时也能大显身手。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/050.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 51,
+      "name": "日本人偶的假发",
+      "en": "Japanese Doll Wig",
+      "ja": "日本人形のウィッグ",
+      "description": "像日本人偶头发般的乌亮假发。即使剪短,不知不觉间又会变长。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/051.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 52,
+      "name": "美图秀秀",
+      "en": "Photoshop Software",
+      "ja": "フォト盛ール",
+      "description": "主要用来加工照片的图片编辑软件。即使是不擅长化妆的雀斑脸,一定也会判若两人。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/052.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 53,
+      "name": "缝纫包",
+      "en": "Sewing Kit",
+      "ja": "ソーイングセット",
+      "description": "基本缝纫道具盒,包含针和几种颜色的线。只要有这些,就算扣子突然掉了也不用担心。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/053.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 54,
+      "name": "焰闪雷",
+      "en": "Flame Thunder",
+      "ja": "フレイムサンダー",
+      "description": "只要魔法师跨上去,说不定就能高速飞行的扫帚。虽然有点弯曲,但也能用来打扫。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/054.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 55,
+      "name": "老旧乐谱",
+      "en": "Tattered Music Score",
+      "ja": "古びた楽譜",
+      "description": "破旧的手写乐谱。有人怀疑这或许是某个知名作曲家未发表的作品。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/055.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 56,
+      "name": "蓝染褶裙",
+      "en": "Indigo Hakama",
+      "ja": "藍染袴",
+      "description": "使用高级棉布制成的武道褶裙。可以在关键胜负时穿上。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/056.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 57,
+      "name": "时髦眼镜",
+      "en": "Fashionable Glasses",
+      "ja": "クールグラス",
+      "description": "眼镜型穿戴式装置造型的普通眼镜。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/057.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 58,
+      "name": "黄金色纸",
+      "en": "Gold Origami",
+      "ja": "ゴールデン折り紙",
+      "description": "光是金色色纸就放了24张的色纸套组。给人奢华感。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/058.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 59,
+      "name": "月面车模型",
+      "en": "Plastic Moon Buggy Model",
+      "ja": "ムーンバギープラモデル",
+      "description": "实际登上月球的月球探测机器人模型。外表虽然朴素,却充满浪漫。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/059.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 60,
+      "name": "我是绘本作家哦",
+      "en": "I'm a Picture Book Artist!",
+      "ja": "絵本作家ですのよ",
+      "description": "每次开机都会自动画出新的绘本,具备人工智能的电子书阅读器。为了期待睡前故事的孩子们准备。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/060.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 61,
+      "name": "握力器",
+      "en": "Hand Grips",
+      "ja": "ハンドグリップ",
+      "description": "专门锻炼握力的器具。拳头的破坏力,或许是取决于握力、体重和速度的配合。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/061.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 62,
+      "name": "纪念币套组",
+      "en": "Commemorative Medal Set",
+      "ja": "記念メダルセット",
+      "description": "黑白熊命人制作的徽章套装,象征着自己和黑白熊仔。感觉得到黑白熊对孩子们的爱。要送给别人也无妨,但留在身上或许会有好事发生。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/062.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 63,
+      "name": "节拍器",
+      "en": "Metronome",
+      "ja": "メトロノーム",
+      "description": "为了在演奏乐器时抓好节奏的音乐用具。是经典的钟摆式。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/063.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 64,
+      "name": "速写本",
+      "en": "Sketchbook",
+      "ja": "クロッキーブック",
+      "description": "速写用的画具。尺寸是适合随身携带的口袋大小。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/064.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 65,
+      "name": "素描人偶",
+      "en": "Art Manikin",
+      "ja": "デッサン人形",
+      "description": "拥有和人类相同关节的模特儿人偶。可动关节能摆动的范围很大,却又摆不出人类无法做出的姿势,是仔细要求平衡而制成的作品。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/065.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 66,
+      "name": "鸽子饲料",
+      "en": "Bird Food",
+      "ja": "ハトのえさ",
+      "description": "严格挑选新鲜种子制成的鸽子饲料。不能随便喂给野生的鸽子。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/066.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 67,
+      "name": "多语代言者",
+      "en": "Proxilingual Device",
+      "ja": "代理ンガル",
+      "description": "包含人声,可以为所有会发出鸣叫声的动物代言的沟通工具。它会用莫名其妙、铿锵有力的电子合成音,诠释麦克风录到的鸣叫声中的情感。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/067.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 68,
+      "name": "虫葫芦",
+      "en": "Gourd Insect Trap",
+      "ja": "ひょうたん虫具",
+      "description": "葫芦加工制成的虫箱,看不到里面。可以将鸣叫的虫放进去享受虫鸣。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/068.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 69,
+      "name": "正榕盆栽",
+      "en": "Potted Banyan Tree",
+      "ja": "ガジュマルの鉢",
+      "description": "正榕盆栽,据说住着会带来幸运的精灵。树干会长出被称为气根的根。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/069.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 70,
+      "name": "面纸",
+      "en": "Pocket Tissue",
+      "ja": "ポケットティッシュ",
+      "description": "毫无特别之处的面纸。最好和手帕一起随身携带。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/070.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 71,
+      "name": "舞动过头的陶俑",
+      "en": "Dancing Haniwa",
+      "ja": "過剰に踊るはにわ",
+      "description": "日本古坟时代常见的土器。一般认为是依照激烈舞动的人制造。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/071.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 72,
+      "name": "懒人工作椅",
+      "en": "Work Chair Of Doom",
+      "ja": "人をダメにする作業椅子",
+      "description": "在舒服到一但坐下就再也不想起来的沙发上,融合计算机等设备,完成的终极工作站。使用者有过度肥胖的危险。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/072.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 73,
+      "name": "三次沙包",
+      "en": "3-Hit KO Sandbag",
+      "ja": "三度サンドバッグ",
+      "description": "不论被瘦小的孩子踢,还是被几乎是灵长目人科人属最强的人物殴打,第3下一定会坏的沙包。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/073.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 74,
+      "name": "运动毛巾",
+      "en": "Sports Towel",
+      "ja": "スポーツタオル",
+      "description": "挂在脖子上刚刚好的毛巾,既轻盈又吸汗。颜色是爽朗青春的天空色。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/074.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 75,
+      "name": "钢铁眼镜盒",
+      "en": "Steel Glasses Case",
+      "ja": "ハガネメガネケース",
+      "description": "被放浪铁金刚踩了也不坏的坚固眼镜盒。不论受到什么样的冲击,都会保护眼镜不被弄坏。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/075.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 76,
+      "name": "机器人用油",
+      "en": "Robot Oil",
+      "ja": "ロボット用オイル",
+      "description": "制作机器人必需的油料。成分经过分离,上半部浓度非常淡,使用时要注意。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/076.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 77,
+      "name": "时钟型游戏机",
+      "en": "Clock-Shaped Game Console",
+      "ja": "時計型ゲーム機",
+      "description": "在黑白液晶屏幕装上好几个按钮,做成怀表型的随身游戏机,可以游玩一个叫“工厂”,内容是不断按按钮来生产黑白熊的游戏。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/077.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 78,
+      "name": "任意遮阳伞",
+      "en": "Everywhere Parasol",
+      "ja": "どこでもパラソル",
+      "description": "不只是海滩,可以立在任何地方的带底座遮阳伞。只要躺在太阳伞下,不论何时何地都能享受优雅的一刻。要送给别人也无妨,但留在身上或许会有好事发生。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/078.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 79,
+      "name": "三层午餐盒",
+      "en": "Three-Layered Lunch Box",
+      "ja": "三段ランチボックス",
+      "description": "可以装入满满点心的家庭午餐盒。野餐好伙伴。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/079.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 80,
+      "name": "铝制水壶",
+      "en": "Aluminum Water Bottle",
+      "ja": "アルミの水筒",
+      "description": "造型复古的圆形水桶。背在肩上就会不禁想出发去冒险。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/080.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 81,
+      "name": "果冻球",
+      "en": "Jelly Balls",
+      "ja": "ジェリービーズ",
+      "description": "五颜六色的弹性小球,只要泡水就会膨胀成弹珠大小。可以应用在各种装潢上面,因为含有水分,也能当作盆栽的土壤。相同的4个颜色连在一起并不会消失。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/081.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 82,
+      "name": "乐观加湿机",
+      "en": "Upbeat Humidifier",
+      "ja": "前向きな加湿機",
+      "description": "留下越多眼泪,就能让室内越潮湿的加湿机。虽然能让悲观的情感发挥正面功效,但对天生乐观的人而言只是个箱子。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/082.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 83,
+      "name": "专一指针",
+      "en": "Earnest Compass",
+      "ja": "一途コンパス",
+      "description": "不管S极和N极,只会永远指向持有者心上人方向的指针。是全国跟踪狂间炙手可热的道具。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/083.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 84,
+      "name": "回旋舞人偶",
+      "en": "Semazen Doll",
+      "ja": "セマーゼン人形",
+      "description": "模仿为了和神合为一体而不断旋转,跳着回旋舞的人制成的陶瓷人偶。是非常受欢迎的土耳其纪念品。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/084.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 85,
+      "name": "巴塞罗斯风向鸡",
+      "en": "Weathercock of Barcelos",
+      "ja": "バルセロスの風見鶏",
+      "description": "模仿葡萄牙象征真实的“巴塞罗斯公鸡”制成的风向鸡。公鸡是葡萄牙的国鸟,受到人民喜爱。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/085.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 86,
+      "name": "感叹枕头",
+      "en": "Pillow of Admiration",
+      "ja": "感嘆の枕",
+      "description": "能让人做个令人不禁赞叹的美梦的枕头。使用低反发材质,可以睡得很熟。但梦境内容会是长达一辈子的大长篇,所以醒来后会产生强烈空虚感。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/086.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 87,
+      "name": "自相残杀四十六手",
+      "en": "46 Moves of the Killing Game",
+      "ja": "コロシアイ四十六手",
+      "description": "在写着五十音的46张牌上,描述有自相残杀相关内容的歌牌。主要的牌有“鬼用金棒打也会死”、“证据比驳倒更重要”、“染血就会变黑”等。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/087.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 88,
+      "name": "猿猴手",
+      "en": "Monkey's Paw",
+      "ja": "猿の手",
+      "description": "据说能实现任何3个愿望的猿猴手木乃伊。但没听说过使用的人最后得到幸福。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/088.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 89,
+      "name": "喷泉装饰",
+      "en": "Art Piece of Spring",
+      "ja": "泉のオブジェ",
+      "description": "模仿男性小便斗制成的摆饰。只要当成摆设,就会越来越搞不清楚什么是艺术。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/089.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 90,
+      "name": "电器风暴",
+      "en": "Electric Tempest",
+      "ja": "エレキテンペスト",
+      "description": "新潮的电动水枪。喷水距离最远10米,可以连续喷射1分钟。只要认真互相射击,就算是大人也会觉得刺激。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/090.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 91,
+      "name": "宇宙蛋",
+      "en": "Space Egg",
+      "ja": "宇宙のたまご",
+      "description": "用硼硅玻璃制做的装饰。有随着观看角度而改变的神秘外观,很受欢迎。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/091.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 92,
+      "name": "死亡FLAG",
+      "en": "Death Flag",
+      "ja": "死亡フラッグ",
+      "description": "明明凶手可能就在这群人之中,我怎么能再待下去!我要回自己房间了!",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/092.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 93,
+      "name": "生存FLAG",
+      "en": "Survival Flag",
+      "ja": "生存フラッグ",
+      "description": "这种手术的成功机率只有5%......过去没有成功的案例。但这就是我能活下去的最后手段了。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/093.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 94,
+      "name": "小帮手小虎",
+      "en": "Helping Yacchi",
+      "ja": "お助けヤッチー君",
+      "description": "虎鲸造型的吉祥物机器人。只要注意到主人遇到麻烦,就会问要帮忙查询什么。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/094.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 95,
+      "name": "母星",
+      "en": "Home Planet",
+      "ja": "ホームプラネット",
+      "description": "室内天象仪,能够装饰关灯后的房间。语音由知名配音员配音。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/095.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 96,
+      "name": "强运纽扣",
+      "en": "Super Lucky Button",
+      "ja": "強運のボタン",
+      "description": "感觉带在身上会比较走运的纽扣。或许能吸引强烈的好运。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/096.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 97,
+      "name": "闪亮亮清洁布",
+      "en": "Sparkly Sheet",
+      "ja": "キラッと光るシート",
+      "description": "只要一擦,便能清除厨房水槽或水龙头脏污的清洁布。也能用来帮机器人保养肌肤。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/097.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 98,
+      "name": "吊床",
+      "en": "Hammock",
+      "ja": "ハンモック",
+      "description": "不论是谁都曾经向往,吊在两根柱子或树木间的寝具。网格型。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/098.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 99,
+      "name": "除臭喷雾",
+      "en": "Cleansing Air Freshener",
+      "ja": "浄臭スプレー",
+      "description": "喷雾式除臭剂。成分中包含圣水,据说也能击退幽灵或怪物。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/099.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 100,
+      "name": "占卜用花",
+      "en": "Flower for Floromancy",
+      "ja": "占い用フラワー",
+      "description": "专门用来进行“喜欢、讨厌、喜欢......”这种花占卜的假花。花瓣数量是奇数。可以抚慰难受的单恋心灵。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/100.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 101,
+      "name": "万寿菊种子",
+      "en": "Marigold Seeds",
+      "ja": "マリーゴールドの種",
+      "description": "能开出鲜艳花朵的万寿菊种子。万寿菊的花语是“绝望”。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/101.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 102,
+      "name": "猜拳游戏卡",
+      "en": "Rock-Paper-Scissors Cards",
+      "ja": "ジャンケンゲームカード",
+      "description": "1套共有剪刀、石头、布卡片各4张的卡片。多人对战用。只要赌上人生来游玩,就能享受刺激的心理战。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/102.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 103,
+      "name": "完美雷射枪",
+      "en": "Perfect Laser Gun",
+      "ja": "完璧なレーザーガン",
+      "description": "善良市民把不幸福的人当成叛徒制裁时使用的雷射枪复制品。无论是什么时刻都绝不能放手。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/103.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 104,
+      "name": "某人的学生证",
+      "en": "Someone's Student ID",
+      "ja": "誰かの学生証",
+      "description": "某间学园的学生证复制品。有多少具备才能的学生,就有多少种图案。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/104.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 105,
+      "name": "熊耳",
+      "en": "Bear Ears",
+      "ja": "クマミミ",
+      "description": "发箍型的黑白熊耳。只要戴上就能感应脑波,配合感情变化动来动去。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/105.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 106,
+      "name": "超高中级的人狼",
+      "en": "Dangan Werewolf",
+      "ja": "超高校級の人狼",
+      "description": "希望和绝望的派对游戏。可以扮演抽中的卡代表的角色,享受推理和对话的乐趣。大获好评贩卖中。",
+      "giftable": true,
+      "category": "赌场奖品",
+      "acquisition": "在赌场用赌场金币兑换；查看“赌场与礼物获取”核对兑换方式。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/106.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 107,
+      "name": "触手机",
+      "en": "Tentacle Machine",
+      "ja": "触手マスィーン",
+      "description": "感觉非常灵巧的魔术手。只要使用就会再也无法离开它。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/107.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 108,
+      "name": "米饭积木",
+      "en": "Rice Toy Blocks",
+      "ja": "ごはんのつみき",
+      "description": "使用米饭当成材料制成的安全积木,婴儿放到口中也不用怕。如果不快吃掉会坏。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/108.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 109,
+      "name": "宇宙毯",
+      "en": "Cosmic Blanket",
+      "ja": "コズミックブランケット",
+      "description": "隔热性优秀的铝箔纸。卷在身上会很温暖,外出时很方便。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/109.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 110,
+      "name": "全自动刨冰机",
+      "en": "Fully-Automated Shaved Ice Machine",
+      "ja": "フルオートかき氷機",
+      "description": "只要加入冰块,就会自动打成冰沙,并淋上草莓酱的刨冰机。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/110.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 111,
+      "name": "男人的浪漫炮",
+      "en": "Gun of Man's Passion",
+      "ja": "男のロマン砲",
+      "description": "虽然具备超强火力,但必须完成困难条件才能发射的虚构武器模型。只要抱在胸口就会不由自主地想追求浪漫。要送给别人也无妨,但留在身上或许会有好事发生。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/111.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 112,
+      "name": "纯白模型刀",
+      "en": "Pure-White Practice Sword",
+      "ja": "純白の模擬刀",
+      "description": "观赏用的刀。散发出只要一挥就能将凡人一口气弹飞的神圣气势。要送给别人也无妨,但留在身上或许会有好事发生。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/112.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 113,
+      "name": "黑带",
+      "en": "Dark Belt",
+      "ja": "ダークベルト",
+      "description": "为了穿上道服必须绑在腰间的黑色带子。只有打算在某条道路穷尽一生,且胸中蕴含正义的人才能系上。要送给别人也无妨,但留在身上或许会有好事发生。",
+      "giftable": true,
+      "category": "礼物",
+      "acquisition": "在一楼小卖部的黑白熊扭蛋机消耗徽章随机获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/113.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 114,
+      "name": "百田的内裤",
+      "en": "Kaito's Undergarments",
+      "ja": "百田のパンツ",
+      "description": "百田爱穿的四角裤。重要部位无论何时都燃烧着充满梦想的宇宙。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/114.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 115,
+      "name": "星的内裤",
+      "en": "Ryoma's Undergarments",
+      "ja": "星のパンツ",
+      "description": "星爱穿的三角裤。据说在某场国际网球比赛中,规定包含内衣裤的所有服装都要统一成白色。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/115.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 116,
+      "name": "天海的内裤",
+      "en": "Rantaro's Undergarments",
+      "ja": "天海のパンツ",
+      "description": "天海爱穿的拳击内裤。乍看之下很朴素,但一摸就能知道是高级布料的名牌货。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/116.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 117,
+      "name": "权太的内裤",
+      "en": "Gonta's Undergarments",
+      "ja": "ゴン太のパンツ",
+      "description": "权太爱穿的腰布。他有一段时间似乎穿着订制的巨大三角裤,贴身的内衣裤似乎不太适合在森林长大的他。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/117.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 118,
+      "name": "王马的内裤",
+      "en": "Kokichi's Undergarments",
+      "ja": "王馬のパンツ",
+      "description": "王马爱穿的鲜艳内裤。看不见的地方更要多花巧思,这才是真正的时髦。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/118.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 119,
+      "name": "真宫寺的内裤",
+      "en": "Korekiyo's Undergarments",
+      "ja": "真宮寺のパンツ",
+      "description": "真宫寺爱穿的比基尼内裤。禁欲的配色和性感的剪裁表现出人的多面性。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/119.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 120,
+      "name": "机望的内部零件",
+      "en": "K1-B0's Built-In Parts",
+      "ja": "キーボの内蔵パーツ",
+      "description": "内藏在机望腰部的零件。保护体内的重要零件不被温度差和湿气影响。1天必须交换1次,洗干净后就能再次使用。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/120.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 121,
+      "name": "东条的内裤",
+      "en": "Kirumi's Undergarments",
+      "ja": "東条のパンツ",
+      "description": "东条爱穿的内裤。整体用深紫色蕾丝装饰,充满成熟韵味。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/121.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 122,
+      "name": "梦野的内裤",
+      "en": "Himiko's Undergarments",
+      "ja": "夢野のパンツ",
+      "description": "梦野爱穿的内裤。向某位魔法师少女致敬的南瓜内裤",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/122.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 123,
+      "name": "春川的内裤",
+      "en": "Maki's Undergarments",
+      "ja": "春川のパンツ",
+      "description": "春川爱穿的内裤。是容易活动的侧绑带内裤。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/123.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 124,
+      "name": "茶柱的内裤",
+      "en": "Tenko's Undergarments",
+      "ja": "茶柱のパンツ",
+      "description": "茶柱爱穿的内裤。虽然是重视实用性的运动短裤。但小小的和风花样代表了她的少女情怀。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/124.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 125,
+      "name": "白银的内裤",
+      "en": "Tsumugi's Undergarments",
+      "ja": "白銀のパンツ",
+      "description": "白银爱穿的内裤。平常虽然都穿着普通的白色内裤,但重要时刻会特别挑选。并不是为了穿给别人看的,所以禁止从低角度拍摄。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/125.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 126,
+      "name": "安琪的内裤",
+      "en": "Angie's Undergarments",
+      "ja": "アンジーのパンツ",
+      "description": "安琪爱穿的比基尼泳装。因为不是内裤,露出一点也没关系。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/126.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 127,
+      "name": "入间的内裤",
+      "en": "Miu's Undergarments",
+      "ja": "入間のパンツ",
+      "description": "入间爱穿的内裤。似乎是足以配上美貌过人大天才的维纳斯身材的高质量内裤。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/127.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 128,
+      "name": "赤松的内裤",
+      "en": "Kaede's Undergarments",
+      "ja": "赤松のパンツ",
+      "description": "赤松爱穿的内裤。最常见且受欢迎的粉红色,并稍以蕾丝装饰的经典造型。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/128.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 129,
+      "name": "综艺抱枕",
+      "en": "Variety Cushion",
+      "ja": "バラエティクッション",
+      "description": "“比起看大家争得你死我活,更想观察人际关系......”这个和平抱枕代表着外面的人们的这种心情。可以游玩“周游宇宙恋爱综艺 枪弹红鲑团”。",
+      "giftable": false,
+      "category": "特殊道具",
+      "acquisition": "通过赌场兑换、额外模式或特定条件获得；详见“赌场与礼物获取”。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/129.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 130,
+      "name": "爱情钥匙",
+      "en": "Key of Love",
+      "ja": "愛の鍵",
+      "description": "某个充满浓烈欲和性之地的钥匙。要送给别人也无妨,但留在身上或许会有好事发生。",
+      "giftable": true,
+      "category": "特殊道具",
+      "acquisition": "通过赌场兑换、额外模式或特定条件获得；详见“赌场与礼物获取”。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/130.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 131,
+      "name": "百样人转盘",
+      "en": "To Each Their Own Roulette",
+      "ja": "十人十色ルーレット",
+      "description": "左右波澜壮阔、变化多端的人生的幸运转盘。可以游玩“超高中级的培育计划”。",
+      "giftable": false,
+      "category": "特殊道具",
+      "acquisition": "通过赌场兑换、额外模式或特定条件获得；详见“赌场与礼物获取”。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/131.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 132,
+      "name": "黑白剑",
+      "en": "Monomune",
+      "ja": "モノのつるぎ",
+      "description": "据说曾斩断过去笼罩整个世界的绝望的传说之剑。可以游玩“绝望迷宫 黑白熊的考验”。",
+      "giftable": false,
+      "category": "章节纪念品",
+      "acquisition": "随对应的主线章节进度获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/132.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 133,
+      "name": "才囚学园校徽",
+      "en": "Ultimate Academy for Gifted Juveniles Badge",
+      "ja": "才囚学園校章",
+      "description": "通过序章的纪念。才囚学园的校徽徽章。全世界似乎只有16个。",
+      "giftable": false,
+      "category": "章节纪念品",
+      "acquisition": "随对应的主线章节进度获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/133.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 134,
+      "name": "音符发夹",
+      "en": "Musical Note Hairpin",
+      "ja": "音符のヘアピン",
+      "description": "将第1章刻于胸中的纪念。赤松枫的遗物。不论处于何种苦难,钢琴家心中总是回响着丰富的旋律。",
+      "giftable": false,
+      "category": "章节纪念品",
+      "acquisition": "随对应的主线章节进度获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/134.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 135,
+      "name": "公仆手套",
+      "en": "Servant's Gloves",
+      "ja": "奉仕者の手袋",
+      "description": "活过第2章的纪念。东条斩美的遗物。身为女仆,她总是随时戴在手上,并为了大家而行动。",
+      "giftable": false,
+      "category": "章节纪念品",
+      "acquisition": "随对应的主线章节进度获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/135.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 136,
+      "name": "神秘口罩",
+      "en": "Mysterious Mask",
+      "ja": "ミステリアスマスク",
+      "description": "在记忆中留下第3章的纪念。真宫寺是清的遗品。从嘴巴到脖子,将重要的部位完全包覆,不被外界看见。",
+      "giftable": false,
+      "category": "章节纪念品",
+      "acquisition": "随对应的主线章节进度获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/136.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 137,
+      "name": "空养虫箱",
+      "en": "Empty Insect Cage",
+      "ja": "空の虫かご",
+      "description": "攻破第4章的纪念。狱原权太的遗物。里面空荡荡的,已经没有人会再愉快地照顾昆虫们。",
+      "giftable": false,
+      "category": "章节纪念品",
+      "acquisition": "随对应的主线章节进度获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/137.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 138,
+      "name": "银河外套",
+      "en": "Galactic Jacket",
+      "ja": "ギャラクティックジャケット",
+      "description": "面对第5章的纪念。百田解斗的遗物。画着对浩瀚无垠的宇宙怀有的梦想。",
+      "giftable": false,
+      "category": "章节纪念品",
+      "acquisition": "随对应的主线章节进度获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/138.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 139,
+      "name": "枪弹辩驳制作组员工徽章",
+      "en": "Team Danganronpa Employee Badge",
+      "ja": "チームダンガンロンパ社員章",
+      "description": "让第6章完结的纪念。白银纺的遗物。枪弹辩驳制作组的社员戴在身上的徽章。",
+      "giftable": false,
+      "category": "章节纪念品",
+      "acquisition": "随对应的主线章节进度获得。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/139.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 140,
+      "name": "复活节彩蛋",
+      "en": "Easter Egg",
+      "ja": "イースター・エッグ",
+      "description": "结束尾声的纪念。这个道具已经成为枪弹辩驳系列结局的惯例。",
+      "giftable": false,
+      "category": "特殊道具",
+      "acquisition": "通过赌场兑换、额外模式或特定条件获得；详见“赌场与礼物获取”。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/140.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 141,
+      "name": "最原的内裤",
+      "en": "Shuichi's Undergarments",
+      "ja": "最原のパンツ",
+      "description": "最原爱穿的造型保守内裤。方块图案并不是代表凶手和侦探交错的思绪。",
+      "giftable": false,
+      "category": "交流纪念品",
+      "acquisition": "完成对应同学的交流路线后获得；可在通关后的红鲑团模式继续收集。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/141.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 142,
+      "name": "外出票",
+      "en": "Date Ticket",
+      "ja": "デートチケット",
+      "description": "在某个周游宇宙恋爱综艺节目中使用的票。只能对已经收集到全部羁绊碎片的对象使用。",
+      "giftable": false,
+      "category": "特殊道具",
+      "acquisition": "通过赌场兑换、额外模式或特定条件获得；详见“赌场与礼物获取”。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/142.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    },
+    {
+      "id": 143,
+      "name": "黑白维他命V3",
+      "en": "Monomergen-C",
+      "ja": "モノナミンV3",
+      "description": "可疑的营养饮料。只要喝下,不只是精神百倍,好像甚至连时间都会增加。",
+      "giftable": false,
+      "category": "特殊道具",
+      "acquisition": "通过赌场兑换、额外模式或特定条件获得；详见“赌场与礼物获取”。",
+      "source": [
+        "v3-presents",
+        "v3-prefs"
+      ],
+      "image": "assets/v3/gifts/143.webp",
+      "imageWidth": 128,
+      "imageHeight": 128
+    }
+  ],
+  "characters": [
+    {
+      "id": "shuichi",
+      "no": 1,
+      "name": "最原终一",
+      "en": "Shuichi Saihara",
+      "ja": "最原終一",
+      "talent": "侦探",
+      "love": [
+        32,
+        37,
+        69,
+        77,
+        86,
+        94,
+        106,
+        111,
+        130
+      ],
+      "like": [
+        1,
+        2,
+        3,
+        9,
+        17,
+        19,
+        20,
+        23,
+        31,
+        44,
+        45,
+        46,
+        48,
+        56,
+        59,
+        62,
+        67,
+        81,
+        82,
+        85,
+        91,
+        95,
+        97,
+        99,
+        102,
+        110
+      ],
+      "portrait": "assets/v3/characters/portrait-000.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-000.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "171cm",
+        "weight": "58kg",
+        "chest": "80cm",
+        "blood": "AB",
+        "birthday": "9月7日",
+        "likes": "小说",
+        "dislikes": "诽闻"
+      },
+      "portraitBounds": [
+        237,
+        36,
+        787,
+        988
+      ]
+    },
+    {
+      "id": "kaito",
+      "no": 2,
+      "name": "百田解斗",
+      "en": "Kaito Momota",
+      "ja": "百田解斗",
+      "talent": "航天员",
+      "love": [
+        14,
+        23,
+        24,
+        40,
+        44,
+        47,
+        59,
+        61,
+        69,
+        80,
+        95,
+        98,
+        106,
+        107,
+        110,
+        130
+      ],
+      "like": [
+        9,
+        27,
+        34,
+        39,
+        45,
+        56,
+        62,
+        67,
+        74,
+        77,
+        86,
+        90,
+        91,
+        99,
+        101,
+        102,
+        109,
+        111,
+        113
+      ],
+      "portrait": "assets/v3/characters/portrait-001.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-001.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "184cm",
+        "weight": "74kg",
+        "chest": "90cm",
+        "blood": "O",
+        "birthday": "4月12日",
+        "likes": "观赏植物",
+        "dislikes": "神秘学"
+      },
+      "portraitBounds": [
+        212,
+        0,
+        812,
+        1024
+      ]
+    },
+    {
+      "id": "ryoma",
+      "no": 3,
+      "name": "星龙马",
+      "en": "Ryoma Hoshi",
+      "ja": "星竜馬",
+      "talent": "网球选手",
+      "love": [
+        16,
+        23,
+        98,
+        130
+      ],
+      "like": [
+        3,
+        5,
+        9,
+        25,
+        30,
+        31,
+        32,
+        33,
+        37,
+        45,
+        46,
+        61,
+        62,
+        69,
+        74,
+        77,
+        95,
+        105,
+        106
+      ],
+      "portrait": "assets/v3/characters/portrait-002.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-002.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "105cm",
+        "weight": "40kg",
+        "chest": "60cm",
+        "blood": "B",
+        "birthday": "7月1日",
+        "likes": "俄罗斯蓝猫",
+        "dislikes": "灰三齿鲨"
+      },
+      "portraitBounds": [
+        295,
+        63,
+        729,
+        961
+      ]
+    },
+    {
+      "id": "rantaro",
+      "no": 4,
+      "name": "天海兰太郎",
+      "en": "Rantaro Amami",
+      "ja": "天海蘭太郎",
+      "talent": "???",
+      "love": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        18,
+        19,
+        20,
+        25,
+        31,
+        32,
+        33,
+        37,
+        45,
+        50,
+        55,
+        59,
+        62,
+        67,
+        68,
+        69,
+        77,
+        78,
+        80,
+        83,
+        87,
+        91,
+        94,
+        95,
+        98,
+        102,
+        104,
+        106,
+        109
+      ],
+      "like": [
+        22,
+        30,
+        35,
+        38,
+        39,
+        42,
+        43,
+        49,
+        53,
+        56,
+        58,
+        60,
+        61,
+        66,
+        70,
+        73,
+        74,
+        81,
+        84,
+        85,
+        90,
+        99,
+        101,
+        103,
+        105,
+        113,
+        130
+      ],
+      "portrait": "assets/v3/characters/portrait-003.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-003.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "179cm",
+        "weight": "62kg",
+        "chest": "82cm",
+        "blood": "B",
+        "birthday": "10月3日",
+        "likes": "治外法权",
+        "dislikes": "汽车"
+      },
+      "portraitBounds": [
+        212,
+        25,
+        812,
+        999
+      ]
+    },
+    {
+      "id": "gonta",
+      "no": 5,
+      "name": "狱原权太",
+      "en": "Gonta Gokuhara",
+      "ja": "獄原ゴン太",
+      "talent": "昆虫学家",
+      "love": [
+        13,
+        20,
+        32,
+        41,
+        68,
+        75,
+        80,
+        94
+      ],
+      "like": [
+        7,
+        9,
+        12,
+        14,
+        15,
+        23,
+        25,
+        27,
+        31,
+        64,
+        69,
+        84,
+        93,
+        95,
+        101,
+        105,
+        110,
+        113,
+        130
+      ],
+      "portrait": "assets/v3/characters/portrait-004.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-004.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "198cm",
+        "weight": "94kg",
+        "chest": "108cm",
+        "blood": "A",
+        "birthday": "1月23日",
+        "likes": "节肢动物",
+        "dislikes": "香蕉"
+      },
+      "portraitBounds": [
+        212,
+        0,
+        812,
+        1024
+      ]
+    },
+    {
+      "id": "kokichi",
+      "no": 6,
+      "name": "王马小吉",
+      "en": "Kokichi Oma",
+      "ja": "王馬小吉",
+      "talent": "总统",
+      "love": [
+        2,
+        9,
+        15,
+        17,
+        32,
+        33,
+        35,
+        37,
+        47,
+        54,
+        62,
+        73,
+        87,
+        88,
+        90,
+        92,
+        98,
+        102,
+        103,
+        130
+      ],
+      "like": [
+        5,
+        10,
+        14,
+        25,
+        29,
+        31,
+        36,
+        45,
+        55,
+        57,
+        59,
+        67,
+        69,
+        71,
+        72,
+        77,
+        85,
+        86,
+        93,
+        95,
+        99,
+        106,
+        107,
+        110,
+        111,
+        113
+      ],
+      "portrait": "assets/v3/characters/portrait-005.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-005.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "156cm",
+        "weight": "44kg",
+        "chest": "70cm",
+        "blood": "A",
+        "birthday": "6月21日",
+        "likes": "碳酸饮料",
+        "dislikes": "猪脚"
+      },
+      "portraitBounds": [
+        212,
+        57,
+        812,
+        967
+      ]
+    },
+    {
+      "id": "korekiyo",
+      "no": 7,
+      "name": "真宫寺是清",
+      "en": "Korekiyo Shinguji",
+      "ja": "真宮寺是清",
+      "talent": "民俗学家",
+      "love": [
+        4,
+        9,
+        28,
+        35,
+        37,
+        39,
+        51,
+        55,
+        67,
+        71,
+        86,
+        87,
+        88,
+        106,
+        130
+      ],
+      "like": [
+        21,
+        32,
+        36,
+        38,
+        49,
+        53,
+        64,
+        69,
+        83,
+        84,
+        85,
+        109
+      ],
+      "portrait": "assets/v3/characters/portrait-006.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-006.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "188cm",
+        "weight": "65kg",
+        "chest": "81cm",
+        "blood": "O",
+        "birthday": "7月31日",
+        "likes": "麻绳",
+        "dislikes": "冷气"
+      },
+      "portraitBounds": [
+        212,
+        64,
+        812,
+        960
+      ]
+    },
+    {
+      "id": "kiibo",
+      "no": 8,
+      "name": "机望",
+      "en": "Ki-Bo",
+      "ja": "キーボ",
+      "talent": "机器人",
+      "love": [
+        24,
+        25,
+        37,
+        45,
+        56,
+        69,
+        77,
+        81,
+        85,
+        91,
+        95,
+        103,
+        106,
+        113
+      ],
+      "like": [
+        34,
+        42,
+        60,
+        76,
+        84,
+        94,
+        97,
+        104,
+        107,
+        130
+      ],
+      "portrait": "assets/v3/characters/portrait-007.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-007.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "160cm",
+        "weight": "89kg",
+        "chest": "88cm",
+        "blood": "???",
+        "birthday": "10月29日",
+        "likes": "100-240伏特",
+        "dislikes": "自动贩卖机"
+      },
+      "portraitBounds": [
+        212,
+        0,
+        812,
+        1024
+      ]
+    },
+    {
+      "id": "kirumi",
+      "no": 9,
+      "name": "东条斩美",
+      "en": "Kirumi Tojo",
+      "ja": "東条斬美",
+      "talent": "女仆",
+      "love": [
+        3,
+        4,
+        6,
+        7,
+        8,
+        19,
+        20,
+        25,
+        32,
+        43,
+        69,
+        79,
+        81,
+        85,
+        86,
+        95,
+        99,
+        101,
+        110,
+        130
+      ],
+      "like": [
+        9,
+        12,
+        28,
+        31,
+        49,
+        53,
+        54,
+        91,
+        94,
+        97
+      ],
+      "portrait": "assets/v3/characters/portrait-008.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-008.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "176cm",
+        "weight": "52kg",
+        "chest": "84cm",
+        "blood": "B",
+        "birthday": "5月10日",
+        "likes": "打扫",
+        "dislikes": "假日"
+      },
+      "portraitBounds": [
+        216,
+        37,
+        808,
+        987
+      ]
+    },
+    {
+      "id": "himiko",
+      "no": 10,
+      "name": "梦野秘密子",
+      "en": "Himiko Yumeno",
+      "ja": "夢野秘密子",
+      "talent": "魔术师",
+      "love": [
+        48,
+        54,
+        66,
+        69,
+        72,
+        81,
+        130
+      ],
+      "like": [
+        3,
+        4,
+        7,
+        9,
+        13,
+        16,
+        19,
+        21,
+        24,
+        29,
+        31,
+        32,
+        38,
+        45,
+        46,
+        58,
+        79,
+        85,
+        91,
+        94,
+        95,
+        105,
+        107,
+        109,
+        110
+      ],
+      "portrait": "assets/v3/characters/portrait-009.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-009.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "150cm",
+        "weight": "39kg",
+        "chest": "68cm",
+        "blood": "O",
+        "birthday": "12月3日",
+        "likes": "狭窄的地方",
+        "dislikes": "海"
+      },
+      "portraitBounds": [
+        212,
+        0,
+        812,
+        1024
+      ]
+    },
+    {
+      "id": "maki",
+      "no": 11,
+      "name": "春川魔姬",
+      "en": "Maki Harukawa",
+      "ja": "春川魔姫",
+      "talent": "保育员",
+      "love": [
+        2,
+        28,
+        30,
+        37,
+        49,
+        73,
+        81,
+        91,
+        95,
+        110
+      ],
+      "like": [
+        1,
+        4,
+        9,
+        11,
+        13,
+        18,
+        19,
+        23,
+        31,
+        32,
+        33,
+        41,
+        45,
+        46,
+        60,
+        61,
+        69,
+        74,
+        108,
+        130
+      ],
+      "portrait": "assets/v3/characters/portrait-010.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-010.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "162cm",
+        "weight": "44kg",
+        "chest": "77cm",
+        "blood": "A",
+        "birthday": "2月2日",
+        "likes": "早上的湖畔",
+        "dislikes": "冬天的湖畔"
+      },
+      "portraitBounds": [
+        212,
+        107,
+        812,
+        917
+      ]
+    },
+    {
+      "id": "tenko",
+      "no": 12,
+      "name": "茶柱转子",
+      "en": "Tenko Chabashira",
+      "ja": "茶柱転子",
+      "talent": "合气道家",
+      "love": [
+        2,
+        9,
+        23,
+        24,
+        26,
+        32,
+        44,
+        45,
+        56,
+        61,
+        71,
+        73,
+        74,
+        81,
+        95,
+        98,
+        113,
+        130
+      ],
+      "like": [
+        3,
+        4,
+        10,
+        14,
+        31,
+        37,
+        38,
+        48,
+        69,
+        77,
+        78,
+        79,
+        80,
+        82,
+        83,
+        90,
+        91,
+        100,
+        105,
+        110
+      ],
+      "portrait": "assets/v3/characters/portrait-011.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-011.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "165cm",
+        "weight": "52kg",
+        "chest": "88cm",
+        "blood": "B",
+        "birthday": "1月9日",
+        "likes": "双节棍",
+        "dislikes": "死男"
+      },
+      "portraitBounds": [
+        212,
+        21,
+        812,
+        1003
+      ]
+    },
+    {
+      "id": "tsumugi",
+      "no": 13,
+      "name": "白银纺",
+      "en": "Tsumugi Shirogane",
+      "ja": "白銀つむぎ",
+      "talent": "角色扮演家",
+      "love": [
+        9,
+        12,
+        19,
+        27,
+        28,
+        43,
+        50,
+        51,
+        52,
+        53,
+        56,
+        69,
+        75,
+        77,
+        85,
+        91,
+        99,
+        104,
+        106,
+        130
+      ],
+      "like": [
+        3,
+        4,
+        5,
+        17,
+        21,
+        23,
+        25,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        45,
+        48,
+        49,
+        54,
+        57,
+        64,
+        72,
+        81,
+        84,
+        88,
+        94,
+        95,
+        101,
+        102,
+        103,
+        105,
+        111,
+        112
+      ],
+      "portrait": "assets/v3/characters/portrait-012.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-012.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "174cm",
+        "weight": "51kg",
+        "chest": "83cm",
+        "blood": "A",
+        "birthday": "8月15日",
+        "likes": "泡沫板",
+        "dislikes": "插队的人"
+      },
+      "portraitBounds": [
+        212,
+        61,
+        812,
+        963
+      ]
+    },
+    {
+      "id": "angie",
+      "no": 14,
+      "name": "夜长安琪",
+      "en": "Angie Yonaga",
+      "ja": "夜長アンジー",
+      "talent": "美术社员",
+      "love": [
+        4,
+        5,
+        9,
+        10,
+        12,
+        14,
+        18,
+        19,
+        24,
+        28,
+        30,
+        31,
+        36,
+        39,
+        46,
+        48,
+        58,
+        64,
+        65,
+        67,
+        69,
+        71,
+        81,
+        84,
+        86,
+        88,
+        89,
+        91,
+        95,
+        101,
+        107,
+        110,
+        130
+      ],
+      "like": [
+        2,
+        17,
+        38,
+        49,
+        98,
+        103
+      ],
+      "portrait": "assets/v3/characters/portrait-013.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-013.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "157cm",
+        "weight": "41kg",
+        "chest": "72cm",
+        "blood": "A",
+        "birthday": "4月18日",
+        "likes": "牛油果",
+        "dislikes": "湿气"
+      },
+      "portraitBounds": [
+        212,
+        0,
+        812,
+        1024
+      ]
+    },
+    {
+      "id": "miu",
+      "no": 15,
+      "name": "入间美兔",
+      "en": "Miu Iruma",
+      "ja": "入間美兎",
+      "talent": "发明家",
+      "love": [
+        13,
+        15,
+        21,
+        22,
+        29,
+        39,
+        41,
+        52,
+        59,
+        67,
+        72,
+        76,
+        77,
+        90,
+        97,
+        105,
+        107,
+        110,
+        130
+      ],
+      "like": [
+        2,
+        4,
+        5,
+        9,
+        10,
+        14,
+        19,
+        33,
+        36,
+        38,
+        42,
+        45,
+        60,
+        62,
+        82,
+        83,
+        86,
+        89,
+        94,
+        95,
+        103,
+        111
+      ],
+      "portrait": "assets/v3/characters/portrait-014.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-014.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "173cm",
+        "weight": "56kg",
+        "chest": "99cm",
+        "blood": "AB",
+        "birthday": "11月16日",
+        "likes": "儿童节目",
+        "dislikes": "宽松世代"
+      },
+      "portraitBounds": [
+        212,
+        27,
+        812,
+        997
+      ]
+    },
+    {
+      "id": "kaede",
+      "no": 16,
+      "name": "赤松枫",
+      "en": "Kaede Akamatsu",
+      "ja": "赤松楓",
+      "talent": "钢琴家",
+      "love": [
+        45,
+        55,
+        63,
+        130
+      ],
+      "like": [
+        2,
+        4,
+        9,
+        12,
+        19,
+        20,
+        25,
+        28,
+        30,
+        31,
+        32,
+        37,
+        44,
+        46,
+        49,
+        61,
+        69,
+        77,
+        78,
+        81,
+        82,
+        85,
+        91,
+        94,
+        95,
+        97,
+        101,
+        105
+      ],
+      "portrait": "assets/v3/characters/portrait-015.webp",
+      "portraitWidth": 1024,
+      "portraitHeight": 1024,
+      "pixel": "assets/v3/characters/silhouette-015.webp",
+      "pixelWidth": 64,
+      "pixelHeight": 128,
+      "source": [
+        "v3-prefs",
+        "v3-rpg-prefs"
+      ],
+      "bio": {
+        "height": "167cm",
+        "weight": "53kg",
+        "chest": "90cm",
+        "blood": "O",
+        "birthday": "3月26日",
+        "likes": "键盘",
+        "dislikes": "脚踏车"
+      },
+      "portraitBounds": [
+        291,
+        0,
+        733,
+        1024
+      ]
+    }
+  ]
+}
