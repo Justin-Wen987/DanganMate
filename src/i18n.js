@@ -97,10 +97,14 @@ export async function initI18n(){
   const response=await fetch(new URL(`./${game}/${locale}.json`,import.meta.url));if(!response.ok)throw new Error('Translation data could not be loaded.');return [locale,await response.json()];
  })));}));
  try{const saved=appStorage.getItem(LANGUAGE_KEY);if(languages.includes(saved))language=saved;}catch{/* The handbook can still switch languages without storage. */}
+ const requestedLanguage=new URL(location.href).searchParams.get('lang');
+ if(languages.includes(requestedLanguage))language=requestedLanguage;
  const selector=document.getElementById('language-select');selector.value=language;
  function apply(){document.documentElement.lang=language;localize();}
  selector.addEventListener('change',async()=>{
   language=selector.value;
+  const url=new URL(location.href);
+  if(url.searchParams.has('lang')){url.searchParams.set('lang',language);history.replaceState(history.state,'',url);}
   try{await appStorage.setItem(LANGUAGE_KEY,language);}catch{/* Session-only language when browser storage is unavailable. */}
   apply();
  });
